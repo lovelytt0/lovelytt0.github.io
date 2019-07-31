@@ -15,14 +15,13 @@ tags:
 ---
 
 ## 2018
-![](/Posters/2018.jpeg)
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.jpeg "title")](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
+[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](Posters/2018.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
 
 
 ## 2017
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-1.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-1.pdf)
+[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2017-1.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-1.pdf)
 
 
 
 ## 2016
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2016.jpeg "title")](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2016.pdf)
+[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2016.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2016.pdf)
