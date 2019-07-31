@@ -8,20 +8,23 @@ header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
     - SCEC
-    - Microseismicity
+    - offshore seismicity
     - Back-Projection
-    - Posters
+    - posters
     - Monte Carlo
+    - GMPE
 ---
 
 ## 2018
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](Posters/2018.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
+[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2018.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
 
 
 ## 2017
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2017-1.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-1.pdf)
+[![Improving Distance Metrics in Ground Motion Prediction Equations Based on Seismic Array Back-Projection](/Posters/2017-1.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-1.pdf)
 
+
+[![Detecting Offshore Seismicity](/Posters/2017-2.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2017-2.pdf)
 
 
 ## 2016
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2016.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2016.pdf)
+[![Monte Carlo Inversion of the 1D isotropic anisotropic velocity model in the Juan de Fuca Plate](/Posters/2016.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2016.pdf)
