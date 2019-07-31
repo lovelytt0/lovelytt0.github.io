@@ -9,14 +9,20 @@ catalog: true
 tags:
     - SCEC
     - Microseismicity
+    - Back-Projection
+    - Posters
+    - Monte Carlo
 ---
 
 ## 2018
+[![alt text](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.png "title")](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
 
-![](/img/Tian_Detection_final.pdf)
-<object data="http://gitub.com/lovelytt0/lovelytt0.github.io/tree/master/img/Tian_Detection_final.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://github.com/lovelytt0/lovelytt0.github.io/tree/master/img/Tian_Detection_final.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://github.com/lovelytt0/lovelytt0.github.io/tree/master/img/Tian_Detection_final.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
 ## 2017
+[![alt text](http://path/to/img.jpg "title")](你的链接地址)
+
+[![alt text](http://path/to/img.jpg "title")](你的链接地址)
+
+
+## 2016
+[![alt text](http://path/to/img.jpg "title")](你的链接地址)
