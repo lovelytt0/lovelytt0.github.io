@@ -15,7 +15,7 @@ tags:
 ---
 
 ## 2018
-![](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.jpeg )
+![](/Posters/2018.jpeg)
 [![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.jpeg "title")](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
 
 
