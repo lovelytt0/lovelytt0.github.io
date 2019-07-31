@@ -4,7 +4,7 @@ title:      SCEC Posters
 subtitle:   SCEC Posters
 date:       2019-07-31
 author:     Tian Feng
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/SCEC.png
 catalog: true
 tags:
     - SCEC
