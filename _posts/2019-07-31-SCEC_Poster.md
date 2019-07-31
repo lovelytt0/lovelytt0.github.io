@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      SCEC Posters
-subtitle:   SCEC Posters
+subtitle:   Southern California Earthquake Center Annual Meeting
 date:       2019-07-31
 author:     Tian Feng
 header-img: img/SCEC.png
