@@ -3,11 +3,11 @@
   "short_name": "tian_feng Blog",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/tf_128.png",
+    "src": "icons/D_128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/tf_512.png",
+    "src": "icons/D_512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
