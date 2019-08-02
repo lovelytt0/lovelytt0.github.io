@@ -4,7 +4,7 @@ title:      H/V Spectral Ratio Analysis
 subtitle:   Instruction of GEOPSY Installation
 date:       2019-08-02
 author:     Tian Feng
-header-img: img/Geopsy.jpeg
+header-img: img/Geopsy.jpg
 catalog: true
 tags:
     - GEOPSY
