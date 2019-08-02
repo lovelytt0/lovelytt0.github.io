@@ -24,15 +24,15 @@ An important predictive variable for site amplification is the site fundamental 
 
 * Step 1: Go to [link](http://www.geopsy.org/download.php) , select all component to download and select the correct platform.
 
-![fig1](../img/1.png)
+![fig1](https://github.com/lovelytt0/lovelytt0.github.io/blob/master/1.png)
 
 * Step 2: The browser might block you from downloading because of safety problem
 
-![fig2](../img/2.png)
+![fig2](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/img/2.png)
 
 * Step 3: Click on `Advance` button and Processed to `download.geopey.org`, you would follow the link to down the software.
 
-![fig3](../img/3.png)
+![fig3](https://github.com/lovelytt0/lovelytt0.github.io/img/3.png)
 ***
 
 ![fig4](../img/4.png)
