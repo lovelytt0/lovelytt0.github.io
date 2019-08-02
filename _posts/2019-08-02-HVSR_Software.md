@@ -35,18 +35,18 @@ An important predictive variable for site amplification is the site fundamental 
 ![fig3](https://github.com/lovelytt0/lovelytt0.github.io/img/3.png)
 ***
 
-![fig4](../img/4.png)
+![fig4](/img/4.png)
 
 * Step 4: Click on the `XX.XX.dmg` file, and you would found the icon like this.
 
-![fig5](../img/5.png)
+![fig5](/img/5.png)
 
 * Step 5: If you have some problem to open the icon, you could check your `Security & Privacy` setting to allow the apps run.
 
-![fig6](../img/6.png)
+![fig6](/img/6.png)
 
 * Step 6: You continue to install the program. You also need to provide your `sudo passwd`. When you succeed, you would see the windows like this:
 
-![fig7](../img/7.png)
+![fig7](/img/7.png)
 
-![fig8](../img/8.png)
+![fig8](/img/8.png)
