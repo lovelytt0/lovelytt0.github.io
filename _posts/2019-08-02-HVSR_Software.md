@@ -18,16 +18,16 @@ tags:
 
 ## Introduction of HVSR
 
-    An important predictive variable for site amplification is the site fundamental frequency (f0), which is correlated with the thickness and shear-wave velocity (VS) of the soil layer. At permanent (or long-term) seismic monitoring stations, f0 is obtained from the peak of the horizontal-to-vertical spectral ratios (eHVSR) estimated from earthquake recordings. For site characterization projects, f0 is commonly obtained from mHVSR estimated from microseismic (ambient noise) observations recorded by short-term three-component single-station arrays—note that in the mHVSR case, the f0 is generally obtained from the Fourier spectrum rather than the response spectrum.
+An important predictive variable for site amplification is the site fundamental frequency (f0), which is correlated with the thickness and shear-wave velocity (VS) of the soil layer. At permanent (or long-term) seismic monitoring stations, f0 is obtained from the peak of the horizontal-to-vertical spectral ratios (eHVSR) estimated from earthquake recordings. For site characterization projects, f0 is commonly obtained from mHVSR estimated from microseismic (ambient noise) observations recorded by short-term three-component single-station arrays—note that in the mHVSR case, the f0 is generally obtained from the Fourier spectrum rather than the response spectrum.
 
 
 ## INSTALL GEOPSY
 
-    Step 1: Go to [link](http://www.geopsy.org/download.php) , select all component to download and select the correct platform.
+* Step 1: Go to [link](http://www.geopsy.org/download.php) , select all component to download and select the correct platform.
 
 ![fig1](img/1.png)
 
-    Step 2: The browser might block you from downloading becasue of safety problem
+* Step 2: The browser might block you from downloading because of safety problem
 
 ![fig2](img/2.png)
 
