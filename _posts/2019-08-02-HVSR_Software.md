@@ -4,7 +4,7 @@ title:      H/V Spectral Ratio Analysis
 subtitle:   Instruction of GEOPSY Installation
 date:       2019-08-02
 author:     Tian Feng
-header-img: img/Geopsy.png
+header-img: img/Geopsy.jpeg
 catalog: true
 tags:
     - GEOPSY
@@ -29,36 +29,34 @@ Comparing the f0 values from the eHVSR response spectra data to those from the m
 
 * Step 1: Go to [link](http://www.geopsy.org/download.php) , select all component to download and select the correct platform.
 
-![fig1](https://github.com/lovelytt0/HVSR/tree/master/Figure/1.png)
+![fig1](https://github.com/lovelytt0/HVSR/blob/master/Figure/1.png)
 
 * Step 2: The browser might block you from downloading becasue of safety problem
 
-![fig2](https://github.com/lovelytt0/HVSR/tree/master/Figure/2.png)
+![fig2](https://github.com/lovelytt0/HVSR/blob/master/Figure/2.png)
 
 * Step 3: Click on `Advance` button and Processed to `download.geopey.org`, you would follow the link to down the software.
 
-![fig3](https://github.com/lovelytt0/HVSR/tree/master/Figure/3.png)
+![fig3](https://github.com/lovelytt0/HVSR/blob/master/Figure/3.png)
 ***
 
-![fig4](https://github.com/lovelytt0/HVSR/tree/master/Figure/4.png)
+![fig4](https://github.com/lovelytt0/HVSR/blob/master/Figure/4.png)
 
 * Step 4: Click on the `XX.XX.dmg` file, and you would found the icon like this.
 
-![fig5](https://github.com/lovelytt0/HVSR/tree/master/Figure/5.png)
+![fig5](https://github.com/lovelytt0/HVSR/blob/master/Figure/5.png)
 
 * Step 5: If you have some problem to open the icon, you could check your `Security & Privacy` setting to allow the apps run.
 
-![fig6](https://github.com/lovelytt0/HVSR/tree/master/Figure/6.png)
+![fig6](https://github.com/lovelytt0/HVSR/blob/master/Figure/6.png)
 
 * Step 6: You continue to install the program. You also need to provide your `sudo passwd`. When you succeed, you would see the windows like this:
 
-![fig7](https://github.com/lovelytt0/HVSR/tree/master/Figure/7.png)
+![fig7](https://github.com/lovelytt0/HVSR/blob/master/Figure/7.png)
 
-![fig8](https://github.com/lovelytt0/HVSR/tree/master/Figure/8.png)
+![fig8](https://github.com/lovelytt0/HVSR/blob/master/Figure/8.png)
 
-## Workflow
-
-[link](https://github.com/lovelytt0/HVSR/)
+## Workflow [link](https://github.com/lovelytt0/HVSR/)
 
 * Follow the instruction of ` HVSR Processing in Geopsy.pdf ` , this instruction would show you how to read data, select window and achieve HVSR.
 
