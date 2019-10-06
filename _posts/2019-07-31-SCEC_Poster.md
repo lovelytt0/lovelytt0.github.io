@@ -2,7 +2,7 @@
 layout:     post
 title:      SCEC Posters
 subtitle:   Southern California Earthquake Center Annual Meeting
-date:       2019-07-31
+date:       2019-10-05
 author:     Tian Feng
 header-img: img/SCEC.png
 catalog: true
@@ -14,6 +14,10 @@ tags:
     - Monte Carlo
     - GMPE
 ---
+
+## 2019
+[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2019.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2019.pdf)
+
 
 ## 2018
 [![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2018.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2018.pdf)
