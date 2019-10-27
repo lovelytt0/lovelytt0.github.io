@@ -32,6 +32,9 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/2-Figure1-1.png" width="60%"  alt="hello" />
 >Fig. 1. Map of the 2011 Tohoku rupture attributes and historic large earthquakes along the up-dip region of the Japan subduction zone. The long dashed curve indicates the position of the trench. The red star is the USGS epicentral location. Frequency-dependent attributes of the 2011 mainshock rupture inferred from short-period and broadband seismic and geodetic analyses are indicated (Koper et al., 2011). The 1 day aftershock zone for the 2011 event is delimited by the red dotted curve with the global centroid moment tensor focal mechanisms for the mainshock, the 11 March 2011 Mw 7.9 thrust aftershock and the large 11 March 2011 Mw 7.7 outer rise aftershock being shown. The pink ellipse indicates the trench slope environment for which there is concern about future tsunamigenic normal faulting.
 
+* Possible occurrence of a great outer trench- slope earthquake seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
+* outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture. Additional aftershock activity has been distributed along a trend below
+
 ### Figure 2
 
 [^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
