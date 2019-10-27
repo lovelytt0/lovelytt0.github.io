@@ -15,6 +15,10 @@ tags:
 
 
 ***
+  Outer trench-slope faulting and the 2011 Mw 9.0 off the Pacific coast of Tohoku Earthquake
+  Thorne Lay1, Charles J. Ammon2, Hiroo Kanamori3, Marina J. Kim1, and Lian Xue1 1University ofCalifornia Santa Cruz, Santa Cruz, California 95064, USA
+  2The Pennsylvania State University, University Park, Pennsylvania 16802, USA 3California Institute ofTechnology, Pasadena, California 91125, USA
+
 
 ## Abstract
 
