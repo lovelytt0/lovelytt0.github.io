@@ -103,5 +103,5 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
   * Physiographic structure with the arc to the north
   * Large mainshock slip and stress changes produced by the event
 * The 869 megathrust Eq (Iida et al., 1967) has no following outer rise event recorded.
-  * Region cannot sup- port great normal faulting
+  * Region cannot support great normal faulting
   * `Or` that it has large strain accumulations that would enable such faulting
