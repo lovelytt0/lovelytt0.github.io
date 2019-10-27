@@ -37,4 +37,8 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 ```Fig. 4. Schematic cross-sections of the A) Sanriku-oki, B) Kuril and C) Miyagi-oki subduction zones where great interplate thrust events have been followed by great trench slope or outer rise extensional events (in the first two cases) and concern about that happening in the case of the 2011 event.
 ```
 
-*
+* Coulomb stress 5-10 bar on normal faults
+* largest trench-slope aftershocks are always much smaller than underthrusting mainshocks
+* quantifying stress variation
+* thrust and outer rise normal pairs
+&
