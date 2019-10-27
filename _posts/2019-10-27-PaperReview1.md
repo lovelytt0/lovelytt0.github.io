@@ -62,7 +62,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 * P-mode: teleseismic P waves
   * seismic moments of 4.1×1022 N*m
-* J-mode: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011)
+* J-mode: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011).
   * seismic moments of 3.6×1022 N*m
 * Both models:
   * maximum slip is 40km
@@ -77,7 +77,15 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 >Fig. 3. Maps of the Coulomb stress change predicted for the joint P wave, Rayleigh wave and continuous GPS inversion in Fig. 2. The margins of the latter fault model are indicated by the box. Two weeks of aftershock locations from the U.S. Geological Survey are superimposed, with symbol sizes scaled relative to seismic magnitude. (a) The Coulomb stress change averaged over depths of 10–15 km for normal faults with the same westward dipping fault plane geometry as the Mw 7.7 outer rise aftershock, for which the global cenroid moment tensor mechanism is shown. (b) Similar stress changes for thrust faults with the same geometry as the mainshock, along with the Mw 7.9 thrusting aftershock to the south, for which the global centroid moment tensor is shown.
 
-
+* Unknown:
+  * ambient stress conditions
+  * precise distribution of faults in the intraplate region up-dip of the megathrust faulting
+* We estimate the stress perturbations using Coulomb 3, software produced by S. Toda, R. Stein, J. Lin and V. Sevilgen. (depth: 10=15km)
+* Normal faulting geometry: westward dipping plane of the Mw 7.7 aftershock (strike 182◦ dip 42◦ rake −100◦)
+  * Similar stress change magnitudes and spatial patterns were found for the eastward dipping plane of the normal fault.
+* Thrust fault geometry: mainshock (strike 202◦ dip 12◦ rake 90◦)
+* The normal fault geometry indicates increases in Coulomb stress of about 5 bars near the location of the large outer rise aftershock east of the hypocenter, and a large region of extension of the upper plate resulting from the thrusting.
+* Concern about future thrust faulting at shallower depth along the 200-km long segment extending southwest to the Sagami Trough where there was a modest increase in driving Coulomb stress.
 
 ### Chapter 4
 
@@ -85,8 +93,4 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/4-Figure4-1.png" width="50%"  alt="hello" />
 >Fig. 4. Schematic cross-sections of the A) Sanriku-oki, B) Kuril and C) Miyagi-oki subduction zones where great interplate thrust events have been followed by great trench slope or outer rise extensional events (in the first two cases) and concern about that happening in the case of the 2011 event.
 
-
-* Coulomb stress 5-10 bar on normal faults
-* largest trench-slope aftershocks are always much smaller than underthrusting mainshocks
-* quantifying stress variation
-* thrust and outer rise normal pairs
+* 
