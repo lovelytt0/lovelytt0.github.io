@@ -30,7 +30,7 @@ tags:
 
 ### Chapter 1
 
-* selected only well-documented CMTs with M ≥ 4.0 and that occurred within 1 year after the mainshock (2237 events).
+* selected only well-documented CMTs with `M ≥ 4.0` and that occurred within 1 year after the mainshock (2237 events).
   * The completeness magnitude of the selected CMTs has been approximately 4.0 except for a half month following the Tohoku-Oki mainshock
 * extracted data for only the interplate and downdip compressional earthquakes employing the same statistical parameter proposed by Abers and Gephart [2001], which is a measure of similarity of two focal mechanisms.
   * The fractions of the extracted interplate and downdip compressional earthquakes are 25% and 4%.

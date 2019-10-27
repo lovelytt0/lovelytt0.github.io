@@ -29,7 +29,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * A large `interplate thrusting earthquake` on the subduction zone is often `followed by` a `intraplate extensional-faulting aftershock` (within the subducting plate beneath the seaward trench slope or outer rise).
 * Possible occurrence of a great `outer trench-slope earthquake` seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
 
-### Chapter 1
+### Chapter 1: Introduction
 
 [^_^]: ![fig1](/img/ReviewPaper1Pic1.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/2-Figure1-1.png" width="60%"  alt="hello" />
@@ -53,7 +53,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
   * We consider the potential for great extensional faulting in the outer trench slope or outer rise region seaward of the rupture zone (with tsunami).
   * outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
 
-### Chapter 2
+### Chapter 2: The 11 March 2011 Rupture
 
 [^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/3-Figure2-1.png" width="100%"  alt="hello" />
@@ -70,7 +70,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * Whether the ∼50– 100 km wide shallowest portion of the megathrust remains unbroken?
   * Comparisons of observations of deep-water tsunami recordings with predictions of the fault models support up-dip concentration of slip for the mainshock, perhaps with large slip all the way to the trench.(Inference)
 
-### Chapter 3
+### Chapter 3: Stress Change and Aftershocks in the Outer Rise and Trench Slope
 
 [^_^]: ![fig3](/img/ReviewPaper1Pic3.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/3-Figure3-1.png" width="100%"  alt="hello" />
@@ -87,7 +87,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * `Thrust fault geometry`: Tohoku mainshock (strike 202◦ dip 12◦ rake 90◦)
   * Concern about future `thrust faulting` at shallower depth along the 200-km long segment extending southwest to the Sagami Trough where there was a modest increase in driving Coulomb stress.
 
-### Chapter 4
+### Chapter 4: Discussion
 
 [^_^]: ![fig4](/img/ReviewPaper1Pic4.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/4-Figure4-1.png" width="50%"  alt="hello" />
