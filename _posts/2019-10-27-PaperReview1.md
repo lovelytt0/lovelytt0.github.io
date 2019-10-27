@@ -28,6 +28,8 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 
 ![fig2](/img/ReviewPaper1Pic2.jpg)
+<img src="/img/ReviewPaper1Pic2.jpg" width="80%"  align=center />
+<img src="https://github.com/lovelytt0/lovelytt0.github.io/tree/master/imgg" width="80%"  align=center />
 
 >Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseimic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
 
