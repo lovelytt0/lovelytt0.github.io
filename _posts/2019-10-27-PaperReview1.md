@@ -35,7 +35,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 
 ![fig3](/img/ReviewPaper1Pic3.jpg)
-<img src="https://github.com/lovelytt0/lovelytt0.github.io/tree/master/img/ReviewPaper1Pic3.jpg" width="80%"  alt="hello" />
+<img src="https://media.springernature.com/original/springer-static/image/art%3A10.5047%2Feps.2011.05.006/MediaObjects/40623_2015_6300700713_Fig3.jpg" width="80%"  alt="hello" />
 
 >Fig. 3. Maps of the Coulomb stress change predicted for the joint P wave, Rayleigh wave and continuous GPS inversion in Fig. 2. The margins of the latter fault model are indicated by the box. Two weeks of aftershock locations from the U.S. Geological Survey are superimposed, with symbol sizes scaled relative to seismic magnitude. (a) The Coulomb stress change averaged over depths of 10–15 km for normal faults with the same westward dipping fault plane geometry as the Mw 7.7 outer rise aftershock, for which the global cenroid moment tensor mechanism is shown. (b) Similar stress changes for thrust faults with the same geometry as the mainshock, along with the Mw 7.9 thrusting aftershock to the south, for which the global centroid moment tensor is shown.
 
