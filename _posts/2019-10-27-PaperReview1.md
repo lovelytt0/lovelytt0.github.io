@@ -93,4 +93,15 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/4-Figure4-1.png" width="50%"  alt="hello" />
 >Fig. 4. Schematic cross-sections of the A) Sanriku-oki, B) Kuril and C) Miyagi-oki subduction zones where great interplate thrust events have been followed by great trench slope or outer rise extensional events (in the first two cases) and concern about that happening in the case of the 2011 event.
 
-* 
+* Predict stress change 5-10 bars, larger than typical values of ∼1 bar associated with most large earthquakes.
+* Is stress change significant in terms of potential great earthquake faulting in the outer trench:
+  * what are the precise outer trench slope fault geometries along this stretch of the subduction zone?
+  * Are there any through-going structures that could support a rupture the size of the 1933 Sanriku-oki event?
+  * Are any such faults near their failure thresholds such that the stress perturbations have significantly advanced them toward failure?
+* 2011 Eq is very like 1896 Eq:
+  * failure process of the up-dip region of the megathrust
+  * physiographic structure with the arc to the north
+  * large mainshock slip and stress changes produced by the event,
+* The 869 megathrust Eq (Iida et al., 1967) has no following outer rise event recorded.
+  * Region cannot sup- port great normal faulting
+  * `Or` that it has large strain accu- mulations that would enable such faulting
