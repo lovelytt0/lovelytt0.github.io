@@ -21,6 +21,10 @@ of at least 40 m. The resulting tsunami devastated the Honshu coast southwest of
 
 ## Key Points
 ![fig1](/img/ReviewPaper1Pic1.jpg)
+
+Fig. 1. Map of the 2011 Tohoku rupture attributes and historic large earthquakes along the up-dip region of the Japan subduction zone. The long dashed curve indicates the position of the trench. The red star is the USGS epicentral location. Frequency-dependent attributes of the 2011 mainshock rupture inferred from short-period and broadband seismic and geodetic analyses are indicated (Koper et al., 2011). The 1 day aftershock zone for the 2011 event is delimited by the red dotted curve with the global centroid moment tensor focal mechanisms for the mainshock, the 11 March 2011 Mw 7.9 thrust aftershock and the large 11 March 2011 Mw 7.7 outer rise aftershock being shown. The pink ellipse indicates the trench slope environment for which there is concern about future tsunamigenic normal faulting.
+
+
 ![fig2](/img/ReviewPaper1Pic2.jpg)
 ![fig3](/img/ReviewPaper1Pic3.jpg)
 ![fig4](/img/ReviewPaper1Pic4.jpg)
