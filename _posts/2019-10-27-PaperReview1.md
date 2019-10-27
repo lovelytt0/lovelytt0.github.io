@@ -22,17 +22,21 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 ## Key Points
 
-[^_^]: ![fig1](/img/ReviewPaper1Pic1.jpg)
+## Figure 1
 
+[^_^]: ![fig1](/img/ReviewPaper1Pic1.jpg)
 <img src="https://media.springernature.com/original/springer-static/image/art%3A10.5047%2Feps.2011.05.006/MediaObjects/40623_2015_6300700713_Fig1.jpg" width="60%"  alt="hello" />
 
 >Fig. 1. Map of the 2011 Tohoku rupture attributes and historic large earthquakes along the up-dip region of the Japan subduction zone. The long dashed curve indicates the position of the trench. The red star is the USGS epicentral location. Frequency-dependent attributes of the 2011 mainshock rupture inferred from short-period and broadband seismic and geodetic analyses are indicated (Koper et al., 2011). The 1 day aftershock zone for the 2011 event is delimited by the red dotted curve with the global centroid moment tensor focal mechanisms for the mainshock, the 11 March 2011 Mw 7.9 thrust aftershock and the large 11 March 2011 Mw 7.7 outer rise aftershock being shown. The pink ellipse indicates the trench slope environment for which there is concern about future tsunamigenic normal faulting.
 
-[^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
+## Figure 2
 
+[^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
 <img src="https://media.springernature.com/original/springer-static/image/art%3A10.5047%2Feps.2011.05.006/MediaObjects/40623_2015_6300700713_Fig2.jpg" width="100%"  alt="hello" />
 
 >Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseimic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
+
+## Figure 3
 
 
 [^_^]: ![fig3](/img/ReviewPaper1Pic3.jpg)
@@ -40,9 +44,10 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 >Fig. 3. Maps of the Coulomb stress change predicted for the joint P wave, Rayleigh wave and continuous GPS inversion in Fig. 2. The margins of the latter fault model are indicated by the box. Two weeks of aftershock locations from the U.S. Geological Survey are superimposed, with symbol sizes scaled relative to seismic magnitude. (a) The Coulomb stress change averaged over depths of 10–15 km for normal faults with the same westward dipping fault plane geometry as the Mw 7.7 outer rise aftershock, for which the global cenroid moment tensor mechanism is shown. (b) Similar stress changes for thrust faults with the same geometry as the mainshock, along with the Mw 7.9 thrusting aftershock to the south, for which the global centroid moment tensor is shown.
 
+## Figure 4
 
-![fig4](/img/ReviewPaper1Pic4.jpg)
-<img src="https://media.springernature.com/original/springer-static/image/art%3A10.5047%2Feps.2011.05.006/MediaObjects/40623_2015_6300700713_Fig4.jpg" width="60%"  alt="hello" />
+[^_^]: ![fig4](/img/ReviewPaper1Pic4.jpg)
+<img src="https://media.springernature.com/original/springer-static/image/art%3A10.5047%2Feps.2011.05.006/MediaObjects/40623_2015_6300700713_Fig4.jpg" width="50%"  alt="hello" />
 >Fig. 4. Schematic cross-sections of the A) Sanriku-oki, B) Kuril and C) Miyagi-oki subduction zones where great interplate thrust events have been followed by great trench slope or outer rise extensional events (in the first two cases) and concern about that happening in the case of the 2011 event.
 
 
@@ -50,5 +55,3 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * largest trench-slope aftershocks are always much smaller than underthrusting mainshocks
 * quantifying stress variation
 * thrust and outer rise normal pairs
-* dd
-** ddsds
