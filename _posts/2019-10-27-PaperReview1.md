@@ -9,6 +9,8 @@ catalog: true
 tags:
     - Tohoku Earthquake
     - Paper Review
+    - offshore seismicity
+
 ---
 
 
