@@ -25,9 +25,9 @@ of at least 40 m. The resulting tsunami devastated the Honshu coast southwest of
 The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture. Additional aftershock activity has been distributed along a trend below the trench and diffusely spread in the outer rise, seaward of the megathrust region where the largest slip occurred. Coulomb stress perturbations of at least `5–10 bars` are calculated for outer rise normal fault geometries for mainshock slip models. Whether a future great trench slope event will occur is uncertain, but the potential tsunamigenic hazard can be gauged by the huge inundations accompanying the 1933 rupture.
 
 ## Key Points
-* large interplate thrusting earthquake on the subduction zone is often followed by a intraplate extensional-faulting aftershock (within the subducting plate beneath the seaward trench slope or outer rise).
+* A large interplate thrusting earthquake on the subduction zone is often followed by a intraplate extensional-faulting aftershock (within the subducting plate beneath the seaward trench slope or outer rise).
 * The largest magnitude trench-slope aftershocks are much smaller than the underthrusting mainshocks.
-* Possible occurrence of a great outer trench- slope earthquake seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
+* Possible occurrence of a great outer trench-slope earthquake seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
 
 ### Figure 1
 
@@ -35,9 +35,13 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/2-Figure1-1.png" width="60%"  alt="hello" />
 >Fig. 1. Map of the 2011 Tohoku rupture attributes and historic large earthquakes along the up-dip region of the Japan subduction zone. The long dashed curve indicates the position of the trench. The red star is the USGS epicentral location. Frequency-dependent attributes of the 2011 mainshock rupture inferred from short-period and broadband seismic and geodetic analyses are indicated (Koper et al., 2011). The 1 day aftershock zone for the 2011 event is delimited by the red dotted curve with the global centroid moment tensor focal mechanisms for the mainshock, the 11 March 2011 Mw 7.9 thrust aftershock and the large 11 March 2011 Mw 7.7 outer rise aftershock being shown. The pink ellipse indicates the trench slope environment for which there is concern about future tsunamigenic normal faulting.
 
-* The 1933 Sanriku-oki (Mw 8.6) event ruptured seaward of the 1896 Meiji-Sanriku tsunami earthquake (M ∼ 8.5)
-* The 13 January 2007 Kuril (Mw 8.1) earthquake ruptured seaward of the 16 November 2006 Kuril (Mw 8.4) underthrusting earthquake. 
-*
+* The 1933 Sanriku-oki (Mw 8.6) event ruptured seaward of the 1896 Meiji-Sanriku tsunami earthquake (M ∼ 8.5).
+  * 1896 Eq: near trench, weak short-period seismic waves.
+  * 1933 Eq: trench slope and outer rise faulting, weak short-period seismic waves, rupture at least 25km.
+  * Both Eqs generate deadly tsunamis (up to 25m).
+* The 13 January 2007 Kuril (Mw 8.1) earthquake ruptured seaward of the 16 November 2006 Kuril (Mw 8.4) underthrusting earthquake.
+  * 2006 Eq:
+  * 2007 Eq:
 * outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
 
 ### Figure 2
