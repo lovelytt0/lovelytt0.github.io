@@ -58,18 +58,26 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 [^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/3-Figure2-1.png" width="100%"  alt="hello" />
 
->Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseimic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
+>Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseismic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
 
-* P-mode:
-* J-mode:
+* P-mode: teleseismic P waves
+  * seismic moments of 4.1×1022 N*m
+* J-mode: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011)
+  * seismic moments of 3.6×1022 N*m
+* Both models:
+  * maximum slip is 40km
+  * rupture velocity is low, 1.5km/s -> presence of sediments or fluids in the fault zone -> tsunami eq
+* Whether the ∼50– 100 km wide shallowest portion of the megathrust remains unbroken?
+  * Comparisons of observations of deep-water tsunami recordings with predictions of the fault models support up-dip concentration of slip for the mainshock, perhaps with large slip all the way to the trench.
 
 ### Chapter 3
-
 
 [^_^]: ![fig3](/img/ReviewPaper1Pic3.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/3-Figure3-1.png" width="100%"  alt="hello" />
 
 >Fig. 3. Maps of the Coulomb stress change predicted for the joint P wave, Rayleigh wave and continuous GPS inversion in Fig. 2. The margins of the latter fault model are indicated by the box. Two weeks of aftershock locations from the U.S. Geological Survey are superimposed, with symbol sizes scaled relative to seismic magnitude. (a) The Coulomb stress change averaged over depths of 10–15 km for normal faults with the same westward dipping fault plane geometry as the Mw 7.7 outer rise aftershock, for which the global cenroid moment tensor mechanism is shown. (b) Similar stress changes for thrust faults with the same geometry as the mainshock, along with the Mw 7.9 thrusting aftershock to the south, for which the global centroid moment tensor is shown.
+
+
 
 ### Chapter 4
 
