@@ -38,10 +38,18 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * The 1933 Sanriku-oki (Mw 8.6) event ruptured seaward of the 1896 Meiji-Sanriku tsunami earthquake (M ∼ 8.5).
   * 1896 Eq: near trench, weak short-period seismic waves.
   * 1933 Eq: trench slope and outer rise faulting, weak short-period seismic waves, rupture at least 25km.
-  * Both Eqs generate deadly tsunamis (up to 25m).
+  * Time Separation of two Eqs is 37 years. Both Eqs generate deadly tsunamis (up to 25m).
 * The 13 January 2007 Kuril (Mw 8.1) earthquake ruptured seaward of the 16 November 2006 Kuril (Mw 8.4) underthrusting earthquake.
-  * 2006 Eq:
-  * 2007 Eq:
+  * 2006 Eq: rupture 200km along strike of the arc, immediately activated normal faulting activity in the trench slope which decayed slowly over time until 2007 Eq
+  * 2007 Eq: strong short-period seismic wave, moment is 50% of 2006 Eq but stronger shaking.
+  * Time Separation of two Eqs is 60 days.
+* A much smaller pair of thrust (Mw 7.2, 16 August 2005) and outer rise normal (Mw 7.0, 14 November 2005) events ruptured in Japan.
+  * Time separation is 90 days.
+* Process control time separation is unknown:
+  * viscous relaxation of the lower part of the slab
+  * poroelastic response in the trench slope region to the change in stresses from the initial thrust event
+  * visco-elastic deformation of the subducting plate
+
 * outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
 
 ### Figure 2
