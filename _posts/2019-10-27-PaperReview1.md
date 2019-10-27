@@ -25,11 +25,12 @@ of at least 40 m. The resulting tsunami devastated the Honshu coast southwest of
 The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture. Additional aftershock activity has been distributed along a trend below the trench and diffusely spread in the outer rise, seaward of the megathrust region where the largest slip occurred. Coulomb stress perturbations of at least `5–10 bars` are calculated for outer rise normal fault geometries for mainshock slip models. Whether a future great trench slope event will occur is uncertain, but the potential tsunamigenic hazard can be gauged by the huge inundations accompanying the 1933 rupture.
 
 ## Key Points
+
 * A large interplate thrusting earthquake on the subduction zone is often followed by a intraplate extensional-faulting aftershock (within the subducting plate beneath the seaward trench slope or outer rise).
 * The largest magnitude trench-slope aftershocks are much smaller than the underthrusting mainshocks.
 * Possible occurrence of a great outer trench-slope earthquake seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
 
-### Figure 1
+### Chapter 1
 
 [^_^]: ![fig1](/img/ReviewPaper1Pic1.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/2-Figure1-1.png" width="60%"  alt="hello" />
@@ -46,20 +47,23 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * A much smaller pair of thrust (Mw 7.2, 16 August 2005) and outer rise normal (Mw 7.0, 14 November 2005) events ruptured in Japan.
   * Time separation is 90 days.
 * Process control time separation is unknown:
-  * viscous relaxation of the lower part of the slab
-  * poroelastic response in the trench slope region to the change in stresses from the initial thrust event
-  * visco-elastic deformation of the subducting plate
+  * viscous relaxation of the lower part of the slab.
+  * poroelastic response in the trench slope region to the change in stresses from the initial thrust event.
+  * visco-elastic deformation of the subducting plate.
+* The 11 March 2011 Tohoku Earthquake (Mw 9.0) ruptured the Japan subduction zone directly south of the 1896 and 1933 Sanriku-oki earthquakes. We consider the potential for great extensional faulting in the outer trench slope or outer rise region seaward of the rupture zone (with tsunami).
+  * outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
 
-* outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
-
-### Figure 2
+### Chapter 2
 
 [^_^]: ![fig2](/img/ReviewPaper1Pic2.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/3-Figure2-1.png" width="100%"  alt="hello" />
 
 >Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseimic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
 
-### Figure 3
+* P-mode:
+* J-mode:
+
+### Chapter 3
 
 
 [^_^]: ![fig3](/img/ReviewPaper1Pic3.jpg)
@@ -67,7 +71,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 >Fig. 3. Maps of the Coulomb stress change predicted for the joint P wave, Rayleigh wave and continuous GPS inversion in Fig. 2. The margins of the latter fault model are indicated by the box. Two weeks of aftershock locations from the U.S. Geological Survey are superimposed, with symbol sizes scaled relative to seismic magnitude. (a) The Coulomb stress change averaged over depths of 10–15 km for normal faults with the same westward dipping fault plane geometry as the Mw 7.7 outer rise aftershock, for which the global cenroid moment tensor mechanism is shown. (b) Similar stress changes for thrust faults with the same geometry as the mainshock, along with the Mw 7.9 thrusting aftershock to the south, for which the global centroid moment tensor is shown.
 
-### Figure 4
+### Chapter 4
 
 [^_^]: ![fig4](/img/ReviewPaper1Pic4.jpg)
 <img src="https://d3i71xaburhd42.cloudfront.net/6a8f730781755535dc88ced92f572e0ca271913f/4-Figure4-1.png" width="50%"  alt="hello" />
