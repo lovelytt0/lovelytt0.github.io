@@ -27,7 +27,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 ## Key Points
 
 * A large `interplate thrusting earthquake` on the subduction zone is often `followed by` a `intraplate extensional-faulting aftershock` (within the subducting plate beneath the seaward trench slope or outer rise).
-* Possible occurrence of a great outer trench-slope earthquake seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
+* Possible occurrence of a great `outer trench-slope earthquake` seaward of the 2011 Tohoku Earthquake along a southwestward extension of the 1933 fault zone is a concern.
 
 ### Chapter 1
 
@@ -46,9 +46,9 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * A much smaller pair of thrust (Mw 7.2, 16 August 2005) and outer rise normal (Mw 7.0, 14 November 2005) events ruptured in Japan.
   * Time separation is `90 days`.
 * Process control time separation is unknown:
-  * viscous relaxation of the lower part of the slab.
-  * poroelastic response in the trench slope region to the change in stresses from the initial thrust event.
-  * visco-elastic deformation of the subducting plate.
+  * `Viscous relaxation` of the lower part of the slab.
+  * `Poroelastic response` in the trench slope region to the change in stresses from the initial thrust event.
+  * `Visco-elastic deformation` of the subducting plate.
 * The 11 March 2011 Tohoku Earthquake (Mw 9.0) ruptured the Japan subduction zone directly south of the 1896 and 1933 Sanriku-oki earthquakes.
   * We consider the potential for great extensional faulting in the outer trench slope or outer rise region seaward of the rupture zone (with tsunami).
   * outer rise Mw 7.7 normal faulting earthquake occurred near the southern end of the 1933 rupture.
@@ -60,15 +60,15 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 
 >Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseismic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
 
-* P-mode: teleseismic P waves
+* `P-mode`: teleseismic P waves
   * seismic moments of 4.1×1022 N*m
-* J-mode: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011).
+* `J-mode`: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011).
   * seismic moments of 3.6×1022 N*m
 * Both models:
   * maximum slip is 40km
   * rupture velocity is low, 1.5km/s -> presence of sediments or fluids in the fault zone -> tsunami eq
 * Whether the ∼50– 100 km wide shallowest portion of the megathrust remains unbroken?
-  * Comparisons of observations of deep-water tsunami recordings with predictions of the fault models support up-dip concentration of slip for the mainshock, perhaps with large slip all the way to the trench.
+  * Comparisons of observations of deep-water tsunami recordings with predictions of the fault models support up-dip concentration of slip for the mainshock, perhaps with large slip all the way to the trench.(Inference)
 
 ### Chapter 3
 
