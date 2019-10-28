@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Outer trench-slope faulting and the 2011 Mw 9.0 off the Pacific coast of Tohoku Earthquake
-subtitle:   Paper Review
+subtitle:   Paper Review (EPSL)
 date:       2019-10-27
 author:     Tian Feng
 header-img: img/tohoku-earthquake-damage.jpg

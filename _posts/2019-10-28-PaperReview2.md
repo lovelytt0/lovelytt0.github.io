@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Regional extent of the large coseismic slip zone of the 2011 Mw 9.0 Tohoku‐Oki earthquake delineated by on‐fault aftershocks
-subtitle:   Paper Review
+subtitle:   Paper Review (GRL)
 date:       2019-10-28
 author:     Tian Feng
 header-img: img/tohoku-earthquake-damage.jpg
