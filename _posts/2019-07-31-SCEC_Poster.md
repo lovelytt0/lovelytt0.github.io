@@ -7,11 +7,8 @@ author:     Tian Feng
 header-img: img/SCEC.png
 catalog: true
 tags:
-    - SCEC
     - offshore seismicity
     - Back-Projection
-    - posters
-    - Monte Carlo
     - GMPE
     - Tohoku Earthquake
 ---
