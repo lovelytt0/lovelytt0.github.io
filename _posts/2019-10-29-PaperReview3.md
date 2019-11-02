@@ -57,3 +57,6 @@ tags:
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr7.jpg" width="80%"  alt="hello" />
 > Fig. 7. Finite-fault slip distributions for the March 11, 2011 Tohoku earthquake inverted from only tsunami observations. (a) Tsunami waveform inversion of ocean-bottom pressure, GPS wave gauges and coastal tide gauges by Fujii et al. (2011). (b) Inversion by Koketsu et al. (2011), in which the fault had to be extended seaward relative to the GPS solution in Fig. 6a, in order to match the tsunami data. (c) Inversion by Satake et al. (2013) with a grid extending farther north than in (a) and using multiple time windows extending up to 6 min from the origin. (d) Estimated for slip distribution from inverted initial tsunami height distribution by Saito et al. (2011).
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr8.jpg" width="80%"  alt="hello" />
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr9.jpg" width="80%"  alt="hello" />
