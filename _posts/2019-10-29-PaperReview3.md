@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      A review of the rupture characteristics of the 2011 Tohoku-oki Mw 9.1 earthquake
+title:      A review of the rupture characteristics of the 2011 Tohoku-oki Mw 9.1 earthquake (1)
 subtitle:   Paper Review (Tectonophysics)
 date:       2019-10-28
 author:     Tian Feng
@@ -48,15 +48,3 @@ tags:
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr4.jpg" width="80%"  alt="hello" />
 > Fig. 4. Back-projection of (a) teleseismic short period (1–2 s) P waves recorded by USArray (squares) and European stations (circles) (Meng et al., 2011), and (b) Rayleigh waves using periods from 13 to 100 s (Roten et al., 2012). The black lines in (a) indicate the average slip distribution estimated by Simons et al. (2011). The pink line it the down-dip limit of megathrust activity. In (a) the USGS-NEIC hypocenter (white star) is the reference position, while in (b) the JMA hypocenter (yellow star) is the reference position, so there is some baseline shift between the short-period and long-period images, but the patterns are clearly offset.
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr5.jpg" width="80%"  alt="hello" />
-> Fig. 5. Finite-fault slip distributions for the March 11, 2011 Tohoku earthquake inverted from teleseismic observations. (a) Model P-MOD2 (Lay et al., 2011a). GCMT focal mechanisms of the mainshock and the first three weeks of aftershocks are shown, along with vectors indicating the long-term motion of the Pacific plate relative to Japan (MORVEL model). White star is the epicenter of Zhao et al. (2011). (b) Model of Ide et al. (2011), with moment rate function in the inset. Focal mechanisms of the mainshock, March 9, 2011 Mw 7.2 foreshock and two normal faulting aftershocks are shown along with JMA seismicity. (c) The final solution from the USGS-NEIC from body wave and surface wave modeling (Hayes, 2011), with hypocenter at the USGS-NEIC location. (d) Final model from inverting body and surface waves from Shao et al., 2011. Red star is the JMA epicenter and red dots are the first 6 days of aftershocks.
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr6.jpg" width="80%"  alt="hello" />
-> Fig. 6. Finite-fault slip distributions for the March 11, 2011 Tohoku earthquake inverted from only geodetic observations. (a) Inversion of static GPS displacements from Koketsu et al. (2011). The JMA locations are shown for the epicenter (orange star), March 9, 2011 Mw 7.3 foreshock (white circle) aftershocks larger than 7 (orange circles) and other aftershocks (yellow circles). (b) Inversion of high-rate GPS signals by Yue and Lay (2011). The larger circles indicate the GEONET stations used among all stations (circles). (c) Slip distribution including offshore and onshore deformation observations from Iinuma et al. (2012). Slip contour is 10 m. (d) Slip distribution from GPS with free slip at the trench and accounting for seafloor deformation from Ozawa et al. (2012).
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr7.jpg" width="80%"  alt="hello" />
-> Fig. 7. Finite-fault slip distributions for the March 11, 2011 Tohoku earthquake inverted from only tsunami observations. (a) Tsunami waveform inversion of ocean-bottom pressure, GPS wave gauges and coastal tide gauges by Fujii et al. (2011). (b) Inversion by Koketsu et al. (2011), in which the fault had to be extended seaward relative to the GPS solution in Fig. 6a, in order to match the tsunami data. (c) Inversion by Satake et al. (2013) with a grid extending farther north than in (a) and using multiple time windows extending up to 6 min from the origin. (d) Estimated for slip distribution from inverted initial tsunami height distribution by Saito et al. (2011).
-
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr8.jpg" width="80%"  alt="hello" />
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr9.jpg" width="80%"  alt="hello" />
