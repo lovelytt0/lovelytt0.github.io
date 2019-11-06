@@ -31,7 +31,7 @@ tags:
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr8.jpg" width="80%"  alt="hello" />
 > Fig. 8. Inversion for initial sea surface displacement for the March 11, 2011 Tohoku earthquake from tsunami recordings. (a) Posterior median model from Dettmer et al. (2016). Source areas of the 869 Jogan (red dashed line) and 1896 Sanriku earthquakes (blue dashed line, gray star), are shown. (b) Cumulative source model inverted assuming variable rupture velocity, dispersive waves and 15 km Gaussian basis functions from Hossen et al. (2015b).
-Jogan
+
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr9.jpg" width="80%"  alt="hello" />
 > Fig. 9. Cumulative slip from time-varying rupture models from joint inversion of seismic and geodetic data. (a) Model of Wei et al. (2012), obtained using 797 on-land GPS and 5 offshore seafloor displacements along with 14 accelerometers. There are 5 segments (S0 to S4) with varying dip. The moment rate function is shown in the inset. Blue and Pink vectors are predicted displacements on top of white observations. (b) Inversion of teleseismic P waves, on-land and seafloor static deformations and strong motion records by Lee et al. (2011). (c) Inversion of teleseismic P and PP phases, 351 on-land GPS and 5 offshore seafloor displacements by Kubo and Kakehi (2013). Afterslip (broken lines) from Ozawa et al. (2011) are shown, along with interplate aftershocks from F-net CMT solutions. (d) Joint inversion of 1-Hz GPS, 5 seafloor displacements, teleseismic P waves, and Rayleigh wave source time functions by Yue and Lay (2013). Observed and predicted static displacements are shown.
