@@ -30,7 +30,7 @@ combined
 
 ## Relationship to aftershocks and afterslip
 * Asano et al. (2011) find that thrust aftershocks near the fault plane are seldom located in the large slip area, and that normal faulting occurs in both the upper and lower plates.
-  * on-fault thrust events to fringe the large-slip zone (Kato and Igarashi (2012))
+  * `on-fault thrust events` to `fringe` the `large-slip zone` (Kato and Igarashi (2012))
   * rate of interplate aftershocks changed significantly -> edges of the mainshock slip zone
   * infer that the accumulated stress was almost entirely released in the large slip zone, while stress increased in surrounding areas.
 *  They infer that the mainshock stress change was up to 1 MPa for east-west tension, extensional stress was augmented, not reversed.
@@ -44,9 +44,14 @@ combined
   * observe progressive expansion of the down dip aftershock area along strike to the south and locally around some patches of high activity. The activity decays with time, and could involve a `cascade of static stress triggers` or `afterslip driven expansion`.
 
 
-
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr14.jpg" width="80%"  alt="hello" />
 > Fig. 14. Determinations of afterslip distributions for the 2011 Tohoku earthquake. (a) Postseismic displacements for 12–25 March 2011 from Ozawa et al. (2011). (b) Updated, and much contracted afterslip distribution (red contours) along with the coseismic slip estimate from Ozawa et al. (2012) with 8 m contour intervals. (c) Cumulative distribution of estimated postseismic slip (red areas) from Iinuma et al. (2016). The color scale for the cumulative slip is indicated at the bottom. The blue dashed contours represent the coseismic slip model of Iinuma et al. (2012). Gray contours are slip regions of previous large events.
+
+* Geodetic: `concentrate afterslip` in the `down-dip portion` of the megathrust `deeper than about 30 km`, complementary to the increasingly seaward location of the estimated mainshock slip.
+* GPS: Afterslip extends down-dip of the co-seismic slip to ~80 km deep. It peaks and decays more slowly near the SLSR region offshore of Sanriku. Silverii et al. (2014)
+  * postseismic motion could have contribution from vis-coelastic relaxation.
+  * The afterslip pattern largely coincides with the aftershock distribution and with zones of calculated increased Coulomb failure stress from the mainshock slip. The afterslip Coulomb stress change is about 10% of that for the mainshock.
+
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr15.jpg" width="80%"  alt="hello" />
 > Fig. 15. Compilation of 45 slip models (identified in Supplementary Table S1 listing) along the corridor indicated in the inset. Solid and dashed lines show models that do or do not include seafloor displacement data as constraints. In the inset, position of the JFAST drill hole is indicated. Modified from Sun et al. (2017).
