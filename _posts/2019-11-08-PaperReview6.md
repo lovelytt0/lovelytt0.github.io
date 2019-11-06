@@ -7,9 +7,9 @@ author:     Tian Feng
 header-img: img/tohoku-earthquake-damage.jpg
 catalog: true
 tags:
-    - Tohoku Earthquake
+    - Machine Learning
     - Paper Review
-    - offshore seismicity
+    - Earthquake Detection
 
 ---
 
