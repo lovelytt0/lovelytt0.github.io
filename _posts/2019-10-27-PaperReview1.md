@@ -61,9 +61,9 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 >Fig. 2. Maps of slip distributions for two finite-faulting models derived from teleseismic P-waves (left) and joint inversion of P waves, Rayleigh waves and continuous GPS observations (right, adapted from Ammon et al., 2011). The P wave inversion model has variable rake of the subfaults, indicated by the small vectors; the joint inversion has uniform rake of 85°. The global centroid moment tensor (GCMT) solutions for the mainshock and aftershocks are shown on the right map.
 
 * `P-mode`: teleseismic P waves
-  * seismic moments of 4.1×1022 N*m
+  * seismic moments of 4.1×10^22 N*m
 * `J-mode`: joint inversion of teleseismic P waves, short-arc Rayleigh wave (R1) relative source time functions, and regional continuous GPS recordings (Ammon et al., 2011).
-  * seismic moments of 3.6×1022 N*m
+  * seismic moments of 3.6×10^22 N*m
 * Both models:
   * maximum slip is 40km
   * rupture velocity is low, 1.5km/s -> presence of sediments or fluids in the fault zone -> tsunami eq
@@ -80,7 +80,7 @@ The second largest 2011 aftershock, an outer rise Mw 7.7 normal faulting earthqu
 * Unknown:
   * ambient stress conditions
   * precise distribution of faults in the intraplate region up-dip of the megathrust faulting
-* We estimate the stress perturbations using Coulomb 3, software produced by S. Toda, R. Stein, J. Lin and V. Sevilgen. (depth: 10=15km)
+* We estimate the stress perturbations using Coulomb 3, software produced by S. Toda, R. Stein, J. Lin and V. Sevilgen. (depth: 10-15km)
 * `Normal faulting geometry`: westward dipping plane of the Mw 7.7 aftershock (strike 182◦ dip 42◦ rake −100◦)
   * Similar stress change magnitudes and spatial patterns were found for the eastward dipping plane of the normal fault.
   * Increases in Coulomb stress of about 5 bars near the location of the large outer rise aftershock east of the hypocenter, and a large region of extension of the upper plate resulting from the thrusting.
