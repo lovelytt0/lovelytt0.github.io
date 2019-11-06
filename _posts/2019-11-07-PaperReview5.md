@@ -28,6 +28,18 @@ combined
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr13.jpg" width="80%"  alt="hello" />
 > Fig. 13. Spatial distribution of event faulting types (a) before (July 1984 to 11 March 2011, 14:45) and (b) after (11 March 2011, 14:46 to December 2013) the Tohoku earthquake. Contours of slip distributions for major interplate events are shown in black. In (a) main source areas for the 1994 Sanriku-oki earthquake (M7.6) and the larges 9 March 2011 foreshock (Mw 7.3) are shown by yellow and light blue areas, respectively. Black ellipsoids (regions (A)–(D)) indicate earthquake clusters including aftershock areas of the 2003 Mw 7.1 (D) and 2005 Mw 7.2 (A) intraplate earthquakes. In (b), the area with coseismic slip of ≥30 m from the Tohoku earthquake (Iinuma et al., 2012) is light blue. The slip areas for two large aftershocks on 11 March 2011 (Mw 7.4, Mw 7.7) are shown by gray-filled contours (Kubo et al., 2013; Muto et al., 2014). Black ellipsoids (regions (E)–(H)) indicate earthquake clusters including aftershocks of the major intraplate earthquakes that occurred at 15:25 JST, 11 March 2011 (Mw 7.5), on 14 March (Mw 6.9), and 7 December (Mw 7.3) 2012. Stars indicate epicenters of major earthquakes.
 
+## Relationship to aftershocks and afterslip The
+* Asano et al. (2011) find that thrust aftershocks near the fault plane are seldom located in the large slip area, and that normal faulting occurs in both the upper and lower plates.
+  * on-fault thrust events to fringe the large-slip zone (Kato and Igarashi (2012))
+  * rate of interplate aftershocks changed significantly -> edges of the mainshock slip zone
+  * infer that the accumulated stress was almost entirely released in the large slip zone, while stress increased in surrounding areas.
+*  They infer that the mainshock stress change was up to 1 MPa for east-west tension, extensional stress was augmented, not reversed.
+* Focal mechanisms before the mainshock in the inland areas of northern Tohoku have extensive compressional activity (Yoshida et al., 2012), and dramatically reduced across Japan after the event.
+* infer that the reduced strain in the areas of slow slip and recent ruptures acted as a barrier to the mainshock rupture.
+* OBS detected aftershocks are intraplate, with few events locating on the plate boundary and none being on the plate boundary in the most seaward 45 km of the megathrust (Obana et al., 2013). The absence of even small events on the shallow megathrust -> no afterslip was occurring there.
+  * They also report several trench-normal compressional events at the landward end of the 45 km wide aseismic wedge, which they attribute to relocking of the megathrust.
+
+
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr14.jpg" width="80%"  alt="hello" />
 > Fig. 14. Determinations of afterslip distributions for the 2011 Tohoku earthquake. (a) Postseismic displacements for 12–25 March 2011 from Ozawa et al. (2011). (b) Updated, and much contracted afterslip distribution (red contours) along with the coseismic slip estimate from Ozawa et al. (2012) with 8 m contour intervals. (c) Cumulative distribution of estimated postseismic slip (red areas) from Iinuma et al. (2016). The color scale for the cumulative slip is indicated at the bottom. The blue dashed contours represent the coseismic slip model of Iinuma et al. (2012). Gray contours are slip regions of previous large events.
 
