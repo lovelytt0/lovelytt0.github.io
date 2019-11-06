@@ -40,12 +40,25 @@ tags:
 
 
 ### A ConvNet for Generalized Seismic Phase Detection
+* Scan through continuous seismic data, and for each 4 sec data window, classify the dominant category of the window as either a P-wave, S-wave, or noise.
+* 4 convolution layers and 2 fully-connected layers
+* 4.5 million 3-component seismic records were used for training and validation of the generalized phase detection framework.
+* Data first were detrended and high-pass filtered above 2 Hz to remove microseismic noise, and all data were resampled at 100 Hz.
+* Magnitude range of the data was −0.81 < M < 5.7 and epicentral distances less than 100 km were used.
+* mini-batches of 480 records
+* 3rd epoch had the highest prediction accuracy on the validation set (99%) `Early Stop`
 
+### Classification Performance on the Validation Set
 
 <img src="https://d3i71xaburhd42.cloudfront.net/e178d94a0601f0f395cf6d81b884a238331fa869/5-Figure2-1.png" width="80%"  alt="hello" />
+> Figure 2: Precision-recall tradeoff curve for different declaration probability thresholds and confusion matrix with definitions. If P- or S-probabilities exceed the threshold probability (color) the waveform is assigned to the respective class. If neither probability exceeds the threshold the waveform is assigned to the noise class. For low probability thresholds more cases of false positives occur, while with higher thresholds more false negative cases occur. The confusion matrix shows the possible combinations of classifications by human analysts (’H’) and the convnet algorithm (’A’).
+
 
 <img src="https://d3i71xaburhd42.cloudfront.net/e178d94a0601f0f395cf6d81b884a238331fa869/6-Figure3-1.png" width="80%"  alt="hello" />
+> Figure 3: Application of GPD to the 2016 Bombay Beach swarm. P-wave (red) and S-wave (blue) detections are colored for all samples of any window in which a class probability exceeds 0.98. The probability time series shows numerous high-probability detections. Inset shows a close up of a time window ~140s long with 13 earthquakes detected. P-detections occur consistently before S-detections. While P-waves tend to have higher vertical amplitudes, S-waves are stronger on the horizontal components.
 
 <img src="https://d3i71xaburhd42.cloudfront.net/e178d94a0601f0f395cf6d81b884a238331fa869/7-Figure4-1.png" width="80%"  alt="hello" />
+> Figure 4: Example of GPD applied to the first 12 hours of the 2016 Bombay Beach sequence. The onset time of the swarm is sharply resolved. The total number of events detected is ~10 times as many as listed in the SCSN catalog. The swarm onset is distinctly visible, which often is not the case in routine catalogs, posing a common problem for seismic monitoring operators. The high amplitude signals before the swarm are nuisance signals from nearby vehicles that do not trigger the GPD algorithm.
 
 <img src="https://d3i71xaburhd42.cloudfront.net/e178d94a0601f0f395cf6d81b884a238331fa869/8-Figure5-1.png" width="80%"  alt="hello" />
+> Figure 5: Application of GPD to the 2016 Kumamoto earthquake. P-waves (red) and S-waves (blue) are detected at nearly all stations over the epicentral distance range 3-100 km. Diamonds indicate theoretical arrival times. This demonstrates both the viability of GPD to detect large magnitude earthquakes, but also to work in regions and magnitude ranges that are not included in the training data.
