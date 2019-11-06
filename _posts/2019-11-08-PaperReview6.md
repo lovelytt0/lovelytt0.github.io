@@ -49,6 +49,9 @@ tags:
 * 3rd epoch had the highest prediction accuracy on the validation set (99%) `Early Stop`
 
 ### Classification Performance on the Validation Set
+* Almost irrespective of the detection threshold: 
+  * Precision is very high (>99%) for both phases, suggesting that that the network very rarely labels noise as seismic phases, or confuses P- and S-phases.
+  * Recall is somewhat lower, between 96% and 99% for most threshold choices, indicating that seismic phases are sometimes misclassified as noise. Remarkably,
 
 <img src="https://d3i71xaburhd42.cloudfront.net/e178d94a0601f0f395cf6d81b884a238331fa869/5-Figure2-1.png" width="80%"  alt="hello" />
 > Figure 2: Precision-recall tradeoff curve for different declaration probability thresholds and confusion matrix with definitions. If P- or S-probabilities exceed the threshold probability (color) the waveform is assigned to the respective class. If neither probability exceeds the threshold the waveform is assigned to the noise class. For low probability thresholds more cases of false positives occur, while with higher thresholds more false negative cases occur. The confusion matrix shows the possible combinations of classifications by human analysts (’H’) and the convnet algorithm (’A’).
