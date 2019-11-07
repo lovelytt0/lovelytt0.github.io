@@ -25,21 +25,15 @@ tags:
 ## Key Points
 
 
-### Chapter 1: Aftershock Distribution
-
-
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr1.jpg" width="80%"  alt="hello" />
 > Fig. 1. Map of large earthquakes around the 2011 Tohoku earthquake region. The green region is the 1 m slip contour for the 2011 rupture (Yue and Lay, 2011). Aftershocks from the USGS-NEIC catalog with depths < 50 km through March 31, 2011 are shown by green dots with radius scaled proportional to magnitude. The yellow and red patches indicate estimated rupture zones of previous large earthquakes. The white arrow indicates the direction of motion of the Pacific plate relative to Honshu.(Modified from Ritsema et al., 2012).
 
-### Chapter 2: Defining the Outer Edge of the Zone of Large Coseismic Slip
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr2.jpg" width="80%"  alt="hello" />
 
-> Fig. 2. Estimates of slip deficit (back slip rate) and coupling fraction on the megathrust boundary offshore of Honshu and Hokkaido obtained from geodetic measurements of upper plate deformation made prior to the March 12, 2011 Tohoku-oki earthquake. (a) Back slip rates with a contour interval of 2 cm/yr from Suwa et al. (2006). Dashed lines indicate the slab depth every 50 km. (b) The blue and red contours, respectively indicate slip-deficit and slip-excess at intervals of 3 cm/yr estimated by Hashimoto et al. (2009). The plate interface is indicated by gray dots. Arrows indicate the relative plate motion as the Pacific (PA) plate underthrusts the North American (NA) plate. (c) Coupling fraction (speed of estimated slip divided by long-term elative motion of the blocks indicated by thin lines) estimated Loveless and Meade (2010).
+> Fig. 2. Estimates of `slip deficit` (back slip rate) and `coupling fraction` on the megathrust boundary offshore of Honshu and Hokkaido obtained from geodetic measurements of upper plate deformation made prior to the March 12, 2011 Tohoku-oki earthquake. (a) Back slip rates with a contour interval of 2 cm/yr from `Suwa et al. (2006)`. Dashed lines indicate the slab depth every 50 km. (b) The blue and red contours, respectively indicate slip-deficit and slip-excess at intervals of 3 cm/yr estimated by `Hashimoto et al. (2009)`. The plate interface is indicated by gray dots. Arrows indicate the relative plate motion as the Pacific (PA) plate underthrusts the North American (NA) plate. (c) Coupling fraction (speed of estimated slip divided by long-term elative motion of the blocks indicated by thin lines) estimated Loveless and Meade (2010).
 
 * Seismicity rate change: Indicate that the accumulated stress along the Tohoku-Oki rupture was almost entirely released from the large-slip zone into its surroundings.
-
-### Chapter 3: Discussions
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr3.jpg" width="80%"  alt="hello" />
 
@@ -47,4 +41,5 @@ tags:
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr4.jpg" width="80%"  alt="hello" />
-> Fig. 4. Back-projection of (a) teleseismic short period (1–2 s) P waves recorded by USArray (squares) and European stations (circles) (Meng et al., 2011), and (b) Rayleigh waves using periods from 13 to 100 s (Roten et al., 2012). The black lines in (a) indicate the average slip distribution estimated by Simons et al. (2011). The pink line it the down-dip limit of megathrust activity. In (a) the USGS-NEIC hypocenter (white star) is the reference position, while in (b) the JMA hypocenter (yellow star) is the reference position, so there is some baseline shift between the short-period and long-period images, but the patterns are clearly offset.
+
+> Fig. 4. Back-projection of (a) `teleseismic short period (1–2 s) P waves` recorded by USArray (squares) and European stations (circles) (Meng et al., 2011), and (b) `Rayleigh waves using periods from 13 to 100 s (Roten et al., 2012).` The black lines in (a) indicate the average slip distribution estimated by Simons et al. (2011). The pink line it the down-dip limit of megathrust activity. In (a) the USGS-NEIC hypocenter (white star) is the reference position, while in (b) the JMA hypocenter (yellow star) is the reference position, so there is some baseline shift between the short-period and long-period images, but the patterns are clearly offset.
