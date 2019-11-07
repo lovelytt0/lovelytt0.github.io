@@ -16,10 +16,26 @@ tags:
 
 ***
 > Author: Thorne Lay
+## Relationship to prior coupling and megathrust ruptures
 
+* Update coupling map:
+  * Updated slip-deficit move seaward
+  * Update coupling estimates by removing assumptions of no up-dip interseismic strain accumulation
+  * Half of the early slip models are more consistent with the original coupling models while others have slip more seaward.
+  * Recent slip models more compatible with the revised coupling estimates
+  * it is misleading to impose an up-dip free slip condition if there is no actual constraint from the on-land data.
+
+* Repeater: (Uchida and Matsuzawa, 2011)
+  * high coupling from 1993 to 2000 in the 2011 large-slip zone by the absence of re- peating sequences, whereas repeating events in the northern, western and southern regions indicate slow slip deformation and lower strain accumulation in areas surrounding the large-slip zone of the 2011 rupture.
+  * overcome the limited resolution from on-land geodesy
+  * coupling coefficient tripled from values before the event, to near 0.6 afterwards
+* Long-term seismicity patterns:
+  * Asano et al. (2011) examine moment tensors for events on and off the plate boundary, with the distribution of interplate thrust activity fringing the mainshock large-slip zone.
+  * Lin and Wu (2012) map cumulative seismic moment for events from 1976 to 2011, finding that larger moment is located in the down-dip area of the 2011 mainshock rupture than in the up-dip area. Up-dip moment is located where slow slip activity and repeaters are observed.
+  * Ye et al. (2013) analyzed the region off Sanriku with low seismicity, few M > 5 events, and lack of large historical ruptures, designating this the Sanriku Low Seismicity Region (SLSR). 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr11.jpg" width="80%"  alt="hello" />
-> Fig. 11. Updated retroactive computations of interplate slip-deficit in which the coupling is allowed to extend farther seaward (even if it is not resolved to do so by the data). These models from broaden the zones of inferred interplate coupling relative to the models before the earthquake in Fig. 1. (a) The updated slip-deficit model of Hashimoto et al. (2012) is shown in blue with contour intervals of 3 cm/yr. The yellow star indicates the USGS-NEIC epicenter. The white circle is the Mw 7.3 foreshock. Aftershock locations for the first three days are shown by yellow circles. The green region superimposes a slip model with 4 m slip contours inverted from GPS static and offshore displacement data, which largely overlaps the region of strong coupling. (b) The updated coupling fraction estimate of Loveless and Meade (2011), without constraint of zero strain accumulation at the up-dip end of the model.
+> Fig. 11. Updated retroactive computations of `interplate slip-deficit` in which the coupling is allowed to `extend farther seaward` (even if it is not resolved to do so by the data). These models from broaden the zones of inferred interplate coupling relative to the models before the earthquake in Fig. 1. (a) The updated slip-deficit model of Hashimoto et al. (2012) is shown in blue with contour intervals of 3 cm/yr. The yellow star indicates the USGS-NEIC epicenter. The white circle is the Mw 7.3 foreshock. Aftershock locations for the first three days are shown by yellow circles. The green region superimposes a slip model with 4 m slip contours inverted from GPS static and offshore displacement data, which largely overlaps the region of strong coupling. (b) The updated coupling fraction estimate of Loveless and Meade (2011), without constraint of zero strain accumulation at the up-dip end of the model.
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr12.jpg" width="80%"  alt="hello" />
 > Fig. 12. (a) Map of GPS station accelerations estimated by Mavrommatis et al. (2014) (black arrows). Colors (blue to red) represent dip-slip component of estimated slip acceleration on the plate interface from 1996 to 2011. Triangles show repeating earthquake locations, with yellow indicating decelerating recurrence and cyan indicating accelerating recurrence. Gray circles are and white squares are less reliable repeaters. Contours are coseismic slip distribution for the 2011 event in 10 m intervals from Hooper et al. (2013). (b) Preferred model of slip accelerations from joint inversion of GPS and repeating earthquakes. Observed GPS accelerations shown in black arrows with 2σ error ellipses, predicted in green. From Mavrommatis et al. (2015).
@@ -62,6 +78,7 @@ combined
   * Comparison with the distribution of repeating earthquakes (Fig. 13b) shows that the afterslip regions have some repeaters, as expected, although more are concentrated down-dip. The occurrence of repeaters appears valuable for constraining the regions of afterslip (e.g., Shirzaei et al., 2014; Hu et al., 2016; Iinuma et al., 2016).
   * very different end-member models of afterslip, and these influence assessments of coseismic slip. Incorporating the supplementary information from seismology, a preference can be given to the models in Fig. 14b and c, but these models do depend on assumptions that need further validation.???
 
+## Depth-varying radiation behavior and slip to the trench
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr15.jpg" width="80%"  alt="hello" />
 > Fig. 15. Compilation of 45 slip models (identified in Supplementary Table S1 listing) along the corridor indicated in the inset. Solid and dashed lines show models that do or do not include seafloor displacement data as constraints. In the inset, position of the JFAST drill hole is indicated. Modified from Sun et al. (2017).
