@@ -2,7 +2,7 @@
 layout:     post
 title:      A review of the rupture characteristics of the 2011 Tohoku-oki Mw 9.1 earthquake (3)
 subtitle:   Paper Review (Tectonophysics)
-date:       2019-10-28
+date:       2019-11-07
 author:     Tian Feng
 header-img: img/tohoku-earthquake-damage.jpg
 catalog: true
@@ -51,6 +51,16 @@ combined
 * GPS: Afterslip extends down-dip of the co-seismic slip to ~80 km deep. It peaks and decays more slowly near the SLSR region offshore of Sanriku. Silverii et al. (2014)
   * postseismic motion could have contribution from vis-coelastic relaxation.
   * The afterslip pattern largely coincides with the aftershock distribution and with zones of calculated increased Coulomb failure stress from the mainshock slip. The afterslip Coulomb stress change is about 10% of that for the mainshock.
+* repeating events is commonly inferred to indicate slow slip
+  * Uchida and Matsuzawa (2013) examine repeating events prior to and after the 2011 mainshock, inferring postseismic slip of 1.6 m over the 9 months following the mainshock, in the area surrounding the large-slip zone. The `postseismic slip rate increases` near the margins of the main slip zone, consistent with outward propagation of afterslip. They also note small increases in rate in the 3 years preceding the mainshock, which they attribute to `‘unfastening’ of the locked area margin`.
+  * Repeating sequences exhibit an increase of 0.3 magnitude units
+  * Near the Kamaishi repeaters in the SLSR, magnitude increased by 1 magnitude unit and the `quasi-static slip rate` is estimated to have `increased` by a factor of `6` after the 2011 event, with `repeat times dropping` from 5.5 years to 9 months -> may represent an `aseismic to seismic transition` under the ephemeral fast loading rate by the postseismic slip.
+* afterslip from Iinuma et al. (2016) (GPS and seafloor deformation statics) Three large afterslip regions:
+  * SLSR region off Sanriku,
+  * down-dip of the mainshock overlapping the 1978 Miyagi-oki region,
+  * up-dip on the megathrust seaward of the Mw 7.9 aftershock off Ibaraki, in the region with no historic earthquakes.
+  * Comparison with the distribution of repeating earthquakes (Fig. 13b) shows that the afterslip regions have some repeaters, as expected, although more are concentrated down-dip. The occurrence of repeaters appears valuable for constraining the regions of afterslip (e.g., Shirzaei et al., 2014; Hu et al., 2016; Iinuma et al., 2016).
+  * very different end-member models of afterslip, and these influence assessments of coseismic slip. Incorporating the supplementary information from seismology, a preference can be given to the models in Fig. 14b and c, but these models do depend on assumptions that need further validation.???
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr15.jpg" width="80%"  alt="hello" />
