@@ -2,9 +2,9 @@
 layout:     post
 title:      Generalized Seismic Phase Detection with Deep Learning
 subtitle:   Paper Review (Bulletin of the Seismological Society of America)
-date:       2019-10-28
+date:       2019-11-06
 author:     Tian Feng
-header-img: img/tohoku-earthquake-damage.jpg
+header-img: img/ai.jpeg
 catalog: true
 tags:
     - Machine Learning
@@ -21,6 +21,7 @@ tags:
 
 > To optimally monitor earthquake-generating processes, seismologists have sought to lower detection sensitivities ever since instrumental seismic networks were started about a century ago. Recently, it has become possible to search continuous waveform archives for replicas of previously recorded events (template matching), which has led to at least an order of magnitude increase in the number of detected earthquakes and greatly sharpened our view of geological structures. Earthquake catalogs produced in this fashion, however, are heavily biased in that they are completely blind to events for which no templates are available, such as in previously quiet regions or for very large magnitude events. Here we show that with deep learning we can overcome such biases without sacrificing detection sensitivity. We trained a `convolutional neural network (ConvNet)` on the vast hand-labeled data archives of the Southern California Seismic Network to detect seismic body wave phases. We show that the ConvNet is extremely sensitive and robust in detecting phases, even when masked by high background noise, and when the ConvNet is applied to new data that is not represented in the training set (in particular, very large magnitude events). This `generalized phase detection (GPD) framework` will significantly improve earthquake monitoring and catalogs, which form the underlying basis for a wide range of basic and applied seismological research.
 
+## Key Points
 
 ## Introduction
 * The magnitude of completeness—the magnitude above which all events have been detected by a network—for southern California now is ~M1.8 in most areas.
