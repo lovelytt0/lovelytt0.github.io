@@ -26,19 +26,19 @@ tags:
   * it is misleading to impose an up-dip free slip condition if there is no actual constraint from the on-land data.
 
 * Repeater: (Uchida and Matsuzawa, 2011)
-  * high coupling from 1993 to 2000 in the 2011 large-slip zone by the absence of re- peating sequences, whereas repeating events in the northern, western and southern regions indicate slow slip deformation and lower strain accumulation in areas surrounding the large-slip zone of the 2011 rupture.
+  * high coupling from 1993 to 2000 in the 2011 large-slip zone by the absence of repeating sequences, whereas repeating events in the northern, western and southern regions indicate `slow slip deformation` and `lower strain accumulation` in areas surrounding the large-slip zone of the 2011 rupture.
   * overcome the limited resolution from on-land geodesy
   * coupling coefficient tripled from values before the event, to near 0.6 afterwards
 * Long-term seismicity patterns:
-  * Asano et al. (2011) examine moment tensors for events on and off the plate boundary, with the distribution of interplate thrust activity fringing the mainshock large-slip zone.
-  * Lin and Wu (2012) map cumulative seismic moment for events from 1976 to 2011, finding that larger moment is located in the down-dip area of the 2011 mainshock rupture than in the up-dip area. Up-dip moment is located where slow slip activity and repeaters are observed.
-  * Ye et al. (2013) analyzed the region off Sanriku with low seismicity, few M > 5 events, and lack of large historical ruptures, designating this the Sanriku Low Seismicity Region (SLSR).
+  * Asano et al. (2011) examine moment tensors for events on and off the plate boundary, with the distribution of `interplate thrust activity fringing the mainshock large-slip zone`.
+  * Lin and Wu (2012) map cumulative seismic moment for events from 1976 to 2011, finding that `larger moment` is located in the `down-dip area of the 2011 mainshock rupture` than in the `up-dip` area. Up-dip moment is located where `slow slip activity` and `repeaters` are observed.
+  * Ye et al. (2013) analyzed the region off Sanriku with low seismicity, few M > 5 events, and lack of large historical ruptures, designating this the Sanriku Low Seismicity Region (`SLSR`).
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr11.jpg" width="80%"  alt="hello" />
 > Fig. 11. Updated retroactive computations of `interplate slip-deficit` in which the coupling is allowed to `extend farther seaward` (even if it is not resolved to do so by the data). These models from broaden the zones of inferred interplate coupling relative to the models before the earthquake in Fig. 1. (a) The updated slip-deficit model of `Hashimoto et al. (2012)` is shown in blue with contour intervals of 3 cm/yr. The yellow star indicates the USGS-NEIC epicenter. The white circle is the Mw 7.3 foreshock. Aftershock locations for the first three days are shown by yellow circles. The green region superimposes a slip model with 4 m slip contours inverted from GPS static and offshore displacement data, which largely overlaps the region of strong coupling. (b) The updated coupling fraction estimate of `Loveless and Meade (2011)`, without constraint of zero strain accumulation at the up-dip end of the model.
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr12.jpg" width="80%"  alt="hello" />
-> Fig. 12. (a) Map of `GPS station accelerations` estimated by `Mavrommatis et al. (2014)` (black arrows). Colors (blue to red) represent `dip-slip component of estimated slip acceleration` on the plate interface from `1996 to 2011`. Triangles show repeating earthquake locations, with yellow indicating decelerating recurrence and cyan indicating accelerating recurrence. Gray circles are and white squares are less reliable repeaters. Contours are coseismic slip distribution for the 2011 event in 10 m intervals from `Hooper et al. (2013)`. (b) Preferred model of slip accelerations from joint inversion of GPS and repeating earthquakes. Observed GPS accelerations shown in black arrows with 2σ error ellipses, predicted in green. From `Mavrommatis et al. (2015).`
+> Fig. 12. (a) Map of `GPS station accelerations` estimated by `Mavrommatis et al. (2014)` (black arrows). Colors (blue to red) represent `dip-slip component of estimated slip acceleration` on the plate interface from `1996 to 2011`. Triangles show repeating earthquake locations, with `yellow` indicating `decelerating` recurrence and `cyan` indicating `accelerating recurrence`. Gray circles are and white squares are less reliable repeaters. Contours are coseismic slip distribution for the 2011 event in 10 m intervals from `Hooper et al. (2013)`. (b) Preferred model of slip accelerations from joint inversion of GPS and repeating earthquakes. Observed GPS accelerations shown in black arrows with 2σ error ellipses, predicted in green. From `Mavrommatis et al. (2015).`
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr13.jpg" width="80%"  alt="hello" />
@@ -48,11 +48,11 @@ tags:
 * Asano et al. (2011) find that thrust aftershocks near the fault plane are seldom located in the large slip area, and that normal faulting occurs in both the upper and lower plates.
   * `on-fault thrust events` to `fringe` the `large-slip zone` (Kato and Igarashi (2012))
   * rate of interplate aftershocks changed significantly -> edges of the mainshock slip zone
-  * infer that the accumulated stress was almost entirely released in the large slip zone, while stress increased in surrounding areas.
+  * infer that the `accumulated stress` was almost `entirely released` in the large slip zone, while `stress increased in surrounding areas`.
 *  They infer that the mainshock stress change was up to 1 MPa for east-west tension, extensional stress was augmented, not reversed.
-* Focal mechanisms before the mainshock in the inland areas of northern Tohoku have extensive compressional activity (Yoshida et al., 2012), and dramatically reduced across Japan after the event.
+* Focal mechanisms before the mainshock in the inland areas of northern Tohoku have `extensive compressional activity` (Yoshida et al., 2012), and dramatically reduced across Japan after the event.
 * infer that the reduced strain in the areas of slow slip and recent ruptures acted as a barrier to the mainshock rupture.
-* OBS detected aftershocks are intraplate, with few events locating on the plate boundary and none being on the plate boundary in the most seaward 45 km of the megathrust (Obana et al., 2013). The xabsence of even small events on the shallow megathrust -> `no afterslip` was occurring there.
+* `OBS` detected aftershocks are intraplate, with few events locating on the plate boundary and none being on the plate boundary in the most seaward 45 km of the megathrust (Obana et al., 2013). The absence of even small events on the shallow megathrust, including in locations of preceding repeater events (Uchida and Matsuzawa, 2013) -> `no afterslip` was occurring there.
   * They also report several `trench-normal compressional events` at the landward end of the 45 km wide aseismic wedge, which they attribute to `relocking of the megathrust`.
 
 * Lengliné et al. (2012) analyses the first 12h after mainshock, increasing the catalog of small events by 40%.
@@ -61,7 +61,7 @@ tags:
 
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0040195117303992-gr14.jpg" width="80%"  alt="hello" />
-> Fig. 14. Determinations of afterslip distributions for the 2011 Tohoku earthquake. (a) Postseismic displacements for 12–25 March 2011 from Ozawa et al. (2011). (b) Updated, and much contracted afterslip distribution (red contours) along with the coseismic slip estimate from Ozawa et al. (2012) with 8 m contour intervals. (c) Cumulative distribution of estimated postseismic slip (red areas) from Iinuma et al. (2016). The color scale for the cumulative slip is indicated at the bottom. The blue dashed contours represent the coseismic slip model of Iinuma et al. (2012). Gray contours are slip regions of previous large events.
+> Fig. 14. Determinations of afterslip distributions for the 2011 Tohoku earthquake. (a) Postseismic displacements for 12–25 March 2011 from Ozawa et al. (2011). (b) Updated, and much contracted afterslip distribution (red contours) along with the coseismic slip estimate from `Ozawa et al. (2012)` with 8 m contour intervals. (c) Cumulative distribution of estimated postseismic slip (red areas) from Iinuma et al. (2016). The color scale for the cumulative slip is indicated at the bottom. The blue dashed contours represent the coseismic slip model of `Iinuma et al. (2012)`. Gray contours are slip regions of previous large events.
 
 * Geodetic: `concentrate afterslip` in the `down-dip portion` of the megathrust `deeper than about 30 km`, complementary to the increasingly seaward location of the estimated mainshock slip.
 * GPS: Afterslip extends down-dip of the co-seismic slip to ~80 km deep. It peaks and decays more slowly near the SLSR region offshore of Sanriku. Silverii et al. (2014)
