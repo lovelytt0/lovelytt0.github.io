@@ -15,12 +15,12 @@ tags:
 ***
 ## Abstract
 
-* Type 1 Question: Is there any earthquakes that occur in this time window? (Detection Only)
+* <span style="color:green"> Type 1 Question: Whether any earthquakes occur in a time window? (Detection Only)</span>
   * Solution:  <span style="color:blue"> Earthquake Detection Only Model </span>
     * Input: seismogram/spectrogram/feature
     * Output: earthquake or noise
 
-* Type 2 Question: Where and when do earthquakes occur? (Detection+Location)
+* <span style="color:green"> Type 2 Question: Where and when do earthquakes occur? (Detection+Location) </span>
   * Solution 1:  <span style="color:blue"> Direct Earthquake Location Model </span>
     * Input: seismogram/spectrogram/features
     * Output: location/origin_time/magnitude
@@ -29,10 +29,10 @@ tags:
     * <span style="color:blue"> Phase Picking Model </span>
       * Input: seismogram/spectrogram/features
       * Output: phase
-    * <span style="color:blue"> Phase association Model  </span>
+    * <span style="color:blue"> Phase Association Model  </span>
       * Input: phase
       * Output: phase cluster
-    * <span style="color:blue"> Event location Model </span>
+    * <span style="color:blue"> Event Location Model </span>
       * Input: phase cluster
       * Output: location/origin_time/magnitude
 
