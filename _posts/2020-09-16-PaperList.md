@@ -13,25 +13,26 @@ tags:
 ---
 
 ***
+## Abstract
 
-* Type 1 Question: Is there any earthquakes that occur in this time window?
-  * Solution:  Earthquake Detection Only Model
+* Type 1 Question: Is there any earthquakes that occur in this time window? (Detection Only)
+  * Solution:  <span style="color:blue"> Earthquake Detection Only Model </span>
     * Input: seismogram/spectrogram/feature
     * Output: earthquake or noise
 
-* Type 2 Question: Where and when do earthquakes occur? (Dection+Location)
-  * Solution 1: Direct Earthquake Location Model
+* Type 2 Question: Where and when do earthquakes occur? (Detection+Location)
+  * Solution 1:  <span style="color:blue"> Direct Earthquake Location Model </span>
     * Input: seismogram/spectrogram/features
     * Output: location/origin_time/magnitude
 
-  * Solution 2: Phase Picking Model + Phase Association Model + Earthquake    Location Model
-    * Phase Picking
+  * Solution 2: Phase Picking Model + Phase Association Model + Earthquake Location Model
+    * <span style="color:blue"> Phase Picking Model </span>
       * Input: seismogram/spectrogram/features
       * Output: phase
-    * Phase association
+    * <span style="color:blue"> Phase association Model  </span>
       * Input: phase
       * Output: phase cluster
-    * Event location
+    * <span style="color:blue"> Event location Model </span>
       * Input: phase cluster
       * Output: location/origin_time/magnitude
 
