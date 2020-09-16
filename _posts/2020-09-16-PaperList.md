@@ -40,20 +40,15 @@ Input: phase cluster -> location/origin_time/magnitude
 
 <span style="color:red"> [seismogram, feature] </span>
 <span style="color:blue"> [CNN, RNN, GAN, Attention, ANN] </span>
-<span style="color:cyan"> [single station] </span>
-
-[seismogram, feature] [CNN, RNN, GAN, Attention, ANN][single station]
+<span style="color:brown"> [single station] </span>
 
 
+### [Machine Learning Seismic Wave Discrimination: Application to Earthquake Early Warning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077870?utm_campaign=Geophysical_Research_Letters_TrendMD_0&utm_medium=cpc&utm_source=TrendMD)
 
+<span style="color:red"> [seismogram] </span>
+<span style="color:blue"> [GAN, RF] </span>
+<span style="color:brown"> [single station] </span>
 
-
-
-
-### Machine Learning Seismic Wave Discrimination: Application to Earthquake Early Warning
-
-[seismogram][GAN, RF][single station]
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077870?utm_campaign=Geophysical_Research_Letters_TrendMD_0&utm_medium=cpc&utm_source=TrendMD
 
 
 Li et al., 2018
