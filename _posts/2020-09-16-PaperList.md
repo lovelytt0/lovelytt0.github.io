@@ -12,28 +12,23 @@ tags:
 
 ---
 
-
 ***
 
+* Type 1 Question: Is there any earthquakes that occur in this time window?
+  * Solution:  Earthquake Detection Only Model
+    Input: seismogram/spectrogram/feature -> Output: earthquake or noise
 
+* Type 2 Question: Where and when do earthquakes occur? (Dection+Location)
+  * Solution 1: Direct Earthquake Location Model
+    Input: seismogram/spectrogram/features -> Output: location/origin_time/magnitude
 
-Type 1 Question: Is there any earthquakes that occur in this time window?
-
-Solution:  Earthquake Detection Only Model
-Input: seismogram/spectrogram/feature -> Output: earthquake or noise
-
-Type 2 Question: Where and when do earthquakes occur? (Dection+Location)
-
-Solution 1: Direct Earthquake Location Model
-Input: seismogram/spectrogram/features -> Output: location/origin_time/magnitude
-
-Solution 2: Phase Picking Model + Phase Association Model + Earthquake    Location Model
-Phase Picking
-Input: seismogram/spectrogram/features-> Output: phase
-	Phase association
-Input: phase -> Output: phase cluster
-Event location
-Input: phase cluster -> location/origin_time/magnitude
+  * Solution 2: Phase Picking Model + Phase Association Model + Earthquake    Location Model
+    * Phase Picking
+      Input: seismogram/spectrogram/features-> Output: phase
+    * Phase association
+      Input: phase -> Output: phase cluster
+    * Event location
+      Input: phase cluster -> location/origin_time/magnitude
 
 ## Earthquake Detection Only Models
 
@@ -108,37 +103,37 @@ Input: phase cluster -> location/origin_time/magnitude
 <span style="color:blue"> [CNN, shortcut, LSTM RNN, Attention] </span>
 <span style="color:green"> [single station] </span>
 
-###### [CRED: A Deep Residual Network of Convolutional and Recurrent Units for Earthquake Signal Detection](https://www.nature.com/articles/s41598-019-45748-1)
+##### [CRED: A Deep Residual Network of Convolutional and Recurrent Units for Earthquake Signal Detection](https://www.nature.com/articles/s41598-019-45748-1)
 * Mousavi et al., 2019
 * <span style="color:red"> [spectrogram] </span>
 <span style="color:blue"> [CNN, LSTM RNN] </span>
 <span style="color:green"> [single station] </span>
 
-###### [Convolutional Neural Network for Seismic Phase Classification, Performance Demonstration over a Local Seismic Network](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/491/568234/Convolutional-Neural-Network-for-Seismic-Phase)
+##### [Convolutional Neural Network for Seismic Phase Classification, Performance Demonstration over a Local Seismic Network](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/491/568234/Convolutional-Neural-Network-for-Seismic-Phase)
 * Woollam et al., 2019
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [single station] </span>
 
-###### [P Wave Arrival Picking and First-Motion Polarity Determination With Deep Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JB015251)
+##### [P Wave Arrival Picking and First-Motion Polarity Determination With Deep Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JB015251)
 * Ross et al.,
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [single station] </span>
 
-###### [Deep Learning for Picking Seismic Arrival Times](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017536)
+##### [Deep Learning for Picking Seismic Arrival Times](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017536)
 * Wang et al.,2019
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN, shortcut] </span>
 <span style="color:green"> [single station] </span>
 
-###### [Hybrid Event Detection and Phase-Picking Algorithm Using Convolutional and Recurrent Neural Networks](https://pubs.geoscienceworld.org/ssa/srl/article/90/3/1079/569837/Hybrid-Event-Detection-and-Phase-Picking-Algorithm)
+##### [Hybrid Event Detection and Phase-Picking Algorithm Using Convolutional and Recurrent Neural Networks](https://pubs.geoscienceworld.org/ssa/srl/article/90/3/1079/569837/Hybrid-Event-Detection-and-Phase-Picking-Algorithm)
 * Zhou et al., 2020
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN,GRU RNN] </span>
 <span style="color:green"> [single station] </span>
 
-###### [Seismic Event and Phase Detection Using Time–Frequency Representation and Convolutional Neural Networks](https://www.researchgate.net/publication/330425340_Seismic_Event_and_Phase_Detection_Using_Time-Frequency_Representation_and_Convolutional_Neural_Networks)
+##### [Seismic Event and Phase Detection Using Time–Frequency Representation and Convolutional Neural Networks](https://www.researchgate.net/publication/330425340_Seismic_Event_and_Phase_Detection_Using_Time-Frequency_Representation_and_Convolutional_Neural_Networks)
 * Dokht et al., 2020
 * <span style="color:red"> [spectrogram] </span>
 <span style="color:blue"> [CNN] </span>
@@ -146,20 +141,20 @@ Input: phase cluster -> location/origin_time/magnitude
 
 ## Phase Association Models
 
-###### [PhaseLink: A Deep Learning Approach to Seismic Phase Association](https://arxiv.org/abs/1809.02880)
+##### [PhaseLink: A Deep Learning Approach to Seismic Phase Association](https://arxiv.org/abs/1809.02880)
 * Ross et al., 2018
 * <span style="color:red"> [phase cluster] </span>
 <span style="color:blue"> [RNN] </span>
 <span style="color:green"> [network] </span>
 
-###### [Pairwise Association of Seismic Arrivals with Convolutional Neural Networks](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/503/568100/Pairwise-Association-of-Seismic-Arrivals-with)
+##### [Pairwise Association of Seismic Arrivals with Convolutional Neural Networks](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/503/568100/Pairwise-Association-of-Seismic-Arrivals-with)
 
 * McBrearty et al., 2019
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [network] </span>
 
-###### [Earthquake Arrival Association with Backprojection and Graph Theory](https://arxiv.org/abs/1904.00980)
+##### [Earthquake Arrival Association with Backprojection and Graph Theory](https://arxiv.org/abs/1904.00980)
 * McBrearty et al., 2019
 * <span style="color:red"> [phase cluster] </span>
 <span style="color:blue"> [graph, BP] </span>
