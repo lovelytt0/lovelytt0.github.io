@@ -37,29 +37,24 @@ Input: phase cluster -> location/origin_time/magnitude
 
 ## Earthquake Detection Only Models
 ### [Reliable Real‐Time Seismic Signal/Noise Discrimination With Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016661)
-
+    `by Meier et al., 2018`
 <span style="color:red"> [seismogram, feature] </span>
 <span style="color:blue"> [CNN, RNN, GAN, Attention, ANN] </span>
 <span style="color:brown"> [single station] </span>
 
 
 ### [Machine Learning Seismic Wave Discrimination: Application to Earthquake Early Warning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077870?utm_campaign=Geophysical_Research_Letters_TrendMD_0&utm_medium=cpc&utm_source=TrendMD)
-
+    `by Li et al., 2018`
 <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [GAN, RF] </span>
 <span style="color:brown"> [single station] </span>
 
+### [Discrimination of Seismic Signals from Earthquakes and Tectonic Tremor by Applying a Convolutional Neural Network to Running Spectral Images](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/530/567979/Discrimination-of-Seismic-Signals-from-Earthquakes)
+    `by Nakano et al., 2019`
+<span style="color:red"> [spectrogram] </span>
+<span style="color:blue"> [CNN] </span>
+<span style="color:brown"> [single station] </span>
 
-
-Li et al., 2018
-
-
-
-Discrimination of Seismic Signals from Earthquakes and Tectonic Tremor by Applying a Convolutional Neural Network to Running Spectral Images
-
-[spectrogram][CNN][single station]
-
-https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/530/567979/Discrimination-of-Seismic-Signals-from-Earthquakes
 
 Nakano et al., 2019
 
