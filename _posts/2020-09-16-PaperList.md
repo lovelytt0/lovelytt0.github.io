@@ -36,18 +36,17 @@ Event location
 Input: phase cluster -> location/origin_time/magnitude
 
 ## Earthquake Detection Only Models
-### Reliable Real‐Time Seismic Signal/Noise Discrimination With Machine Learning
+### [Reliable Real‐Time Seismic Signal/Noise Discrimination With Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016661)
 
 [seismogram, feature] [CNN, RNN, GAN, Attention, ANN][single station]
 
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016661
 
 
 
 
 
 
-Machine Learning Seismic Wave Discrimination: Application to Earthquake Early Warning
+### Machine Learning Seismic Wave Discrimination: Application to Earthquake Early Warning
 
 [seismogram][GAN, RF][single station]
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077870?utm_campaign=Geophysical_Research_Letters_TrendMD_0&utm_medium=cpc&utm_source=TrendMD
