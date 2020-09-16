@@ -13,19 +13,20 @@ tags:
 ---
 
 ***
+
 ## Abstract
 
-* <span style="color:green"> Type 1 Question: Whether any earthquakes occur in a time window? (Detection Only)</span>
+* Type 1 Question: <span style="color:green"> Whether any earthquakes occur in a time window? (Detection Only)</span>
   * Solution:  <span style="color:blue"> Earthquake Detection Only Model </span>
     * Input: seismogram/spectrogram/feature
     * Output: earthquake or noise
 
-* <span style="color:green"> Type 2 Question: Where and when do earthquakes occur? (Detection+Location) </span>
+* Type 2 Question: <span style="color:green"> Where and when do earthquakes occur? (Detection+Location) </span>
   * Solution 1:  <span style="color:blue"> Direct Earthquake Location Model </span>
     * Input: seismogram/spectrogram/features
     * Output: location/origin_time/magnitude
 
-  * Solution 2: Phase Picking Model + Phase Association Model + Earthquake Location Model
+  * Solution 2: <span style="color:blue"> Phase Picking Model + Phase Association Model + Earthquake Location Model </span>
     * <span style="color:blue"> Phase Picking Model </span>
       * Input: seismogram/spectrogram/features
       * Output: phase
@@ -35,6 +36,8 @@ tags:
     * <span style="color:blue"> Event Location Model </span>
       * Input: phase cluster
       * Output: location/origin_time/magnitude
+
+***
 
 ## Earthquake Detection Only Models
 
@@ -56,6 +59,8 @@ tags:
 * <span style="color:red"> [spectrogram] </span>
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [single station] </span>
+
+***
 
 ## Direct Earthquake Location Models
 
@@ -90,7 +95,10 @@ tags:
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [single station] </span>
 
+***
+
 ## Phase Picking Models
+
 ##### [PhaseNet: a deep-neural-network-based seismic arrival-time picking method](https://academic.oup.com/gji/article/216/1/261/5129142)
 * Zhu et al., 2019
 * <span style="color:red"> [seismogram] </span>
@@ -144,6 +152,8 @@ tags:
 * <span style="color:red"> [spectrogram] </span>
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [single station] </span>
+
+***
 
 ## Phase Association Models
 
