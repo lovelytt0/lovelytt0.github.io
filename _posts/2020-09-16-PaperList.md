@@ -76,56 +76,27 @@ Input: phase cluster -> location/origin_time/magnitude
 <span style="color:blue"> [CNN] </span>
 <span style="color:green"> [network] </span>
 
+##### [A Deep Convolutional Neural Network for Localization of Clustered Earthquakes Based on Multistation Full Waveforms](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/510/567690/A-Deep-Convolutional-Neural-Network-for)
 
+* Kriegerowski et al., 2019
+* <span style="color:red"> [seismogram] </span>
+<span style="color:blue"> [CNN] </span>
+<span style="color:green"> [network] </span>
 
+##### [Bayesian-Deep-Learning Estimation of Earthquake Location from Single-Station Observations](https://arxiv.org/pdf/1912.01144.pdf)
+* Mousavi et al., 2019
+* <span style="color:red"> [seismogram] </span>
+<span style="color:blue"> [CNN] </span>
+<span style="color:green"> [single station] </span>
 
+## Phase Picking Models
+##### [PhaseNet: a deep-neural-network-based seismic arrival-time picking method](https://academic.oup.com/gji/article/216/1/261/5129142)
+* Zhu et al., 2019
+* <span style="color:red"> [seismogram] </span>
+<span style="color:blue"> [CNN, shortcut] </span>
+<span style="color:green"> [single station] </span>
 
-A Deep Convolutional Neural Network for Localization of Clustered Earthquakes Based on Multistation Full Waveforms
-
-
-[Seismogram][CNN][network]
-
-https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/510/567690/A-Deep-Convolutional-Neural-Network-for
-
-Kriegerowski et al., 2019
-
-
-
-
-
-
-
-Bayesian-Deep-Learning Estimation of Earthquake Location from Single-Station Observations
-[seismogram][CNN][single station]
-
-https://arxiv.org/pdf/1912.01144.pdf
-
-Mousavi et al., 2019
-
-
-
-
-
-
-
-Phase Picking Models
-PhaseNet: a deep-neural-network-based seismic arrival-time picking method
-[seismogram][CNN, Shortcut][single station]
-
-https://academic.oup.com/gji/article/216/1/261/5129142
-
-Zhu et al., 2019
-
-
-
-
-
-
-
-
-
-
-Generalized Seismic Phase Detection with Deep Learning
+##### Generalized Seismic Phase Detection with Deep Learning
 
 [seismogram][CNN][single station]
 
