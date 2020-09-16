@@ -96,16 +96,11 @@ Input: phase cluster -> location/origin_time/magnitude
 <span style="color:blue"> [CNN, shortcut] </span>
 <span style="color:green"> [single station] </span>
 
-##### Generalized Seismic Phase Detection with Deep Learning
-
-[seismogram][CNN][single station]
-
-https://arxiv.org/abs/1805.01075
-
-Ross et al., 2019
-
-
-
+##### [Generalized Seismic Phase Detection with Deep Learning](https://arxiv.org/abs/1805.01075)
+* Ross et al., 2019
+* <span style="color:red"> [seismogram] </span>
+<span style="color:blue"> [CNN] </span>
+<span style="color:green"> [single station] </span>
 
 Earthquake transformer—an attentive deep- learning model for simultaneous earthquake detection and phase picking
 [seismogram][CNN, shortcut, LSTM RNN, Attention][single station]
