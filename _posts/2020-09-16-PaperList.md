@@ -1,21 +1,25 @@
 ---
 layout:     post
-title:      Paper List of 
-subtitle:   Paper Review (Tectonophysics)
-date:       2019-11-07
+title:      Earthquake Detection by Machine Learning
+subtitle:   Paper List
+date:       2020-09-16
 author:     Tian Feng
-header-img: img/tohoku-earthquake-damage.jpg
+header-img: img/ai.jpeg
 catalog: true
 tags:
     - Machine Learning
     - Paper Review
-    - offshore seismicity
 
 ---
 
 
 ***
-> Author: Thorne Lay
+
+
+
+
+
+
 ## Relationship to prior coupling and megathrust ruptures
 
 * Update coupling map:
