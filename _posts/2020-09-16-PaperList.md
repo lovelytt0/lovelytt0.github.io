@@ -53,19 +53,20 @@ Input: phase cluster -> location/origin_time/magnitude
 <span style="color:brown"> [single station] </span>
 
 ##### [Discrimination of Seismic Signals from Earthquakes and Tectonic Tremor by Applying a Convolutional Neural Network to Running Spectral Images](https://pubs.geoscienceworld.org/ssa/srl/article/90/2A/530/567979/Discrimination-of-Seismic-Signals-from-Earthquakes)
-`by Nakano et al., 2019`
-
-<span style="color:red"> [spectrogram] </span>
+* by Nakano et al., 2019
+* <span style="color:red"> [spectrogram] </span>
 <span style="color:blue"> [CNN] </span>
-<span style="color:brown"> [single station] </span>
+<span style="color:yellow"> [single station] </span>
 
 
 
 ## Direct Earthquake Location Models
 
 ##### [Convolutional neural network for earthquake detection and location](https://advances.sciencemag.org/content/4/2/e1700578)
-* Perol et al., 2018`
-* <span style="color:red"> [seismogram] </span><span style="color:blue"> [CNN] </span><span style="color:brown"> [single station] </span>
+* Perol et al., 2018
+* <span style="color:red"> [seismogram]
+</span><span style="color:blue"> [CNN] </span>
+<span style="color:brown"> [single station] </span>
 
 
 
@@ -73,7 +74,7 @@ Input: phase cluster -> location/origin_time/magnitude
 * Ende et al., 2020
 * <span style="color:red"> [seismogram] </span>
 <span style="color:blue"> [CNN, GNN] </span>
-<span style="color:gren"> [network] </span>
+<span style="color:green"> [network] </span>
 
 
 
