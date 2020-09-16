@@ -38,6 +38,10 @@ Input: phase cluster -> location/origin_time/magnitude
 ## Earthquake Detection Only Models
 ### [Reliable Real‐Time Seismic Signal/Noise Discrimination With Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016661)
 
+<span style="color:red"> [seismogram, feature] </span>
+<span style="color:blue"> [CNN, RNN, GAN, Attention, ANN] </span>
+<span style="color:cyan"> [single station] </span>
+
 [seismogram, feature] [CNN, RNN, GAN, Attention, ANN][single station]
 
 
