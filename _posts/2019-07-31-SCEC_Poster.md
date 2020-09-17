@@ -2,11 +2,12 @@
 layout:     post
 title:      SCEC Posters
 subtitle:   Southern California Earthquake Center Annual Meeting
-date:       2019-10-05
+date:       2020-09-15
 author:     Tian Feng
 header-img: img/SCEC.png
 catalog: true
 tags:
+    - Machine Learning
     - offshore seismicity
     - Back-Projection
     - GMPE
