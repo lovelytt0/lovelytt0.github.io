@@ -21,7 +21,7 @@ tags:
     * Input: seismogram/spectrogram/feature
     * Output: earthquake or noise
 
-* Type 2 Question: <span style="color:green"> Where and when do earthquakes occur? (Detection+Location) </span>
+* Type 2 Question: <span style="color:green"> When and where do earthquakes occur? (Detection+Location) </span>
   * Solution 1:  <span style="color:blue"> Direct Earthquake Location Model </span>
     * Input: seismogram/spectrogram/features
     * Output: location/origin_time/magnitude
