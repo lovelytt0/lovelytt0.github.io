@@ -15,7 +15,7 @@ tags:
 
 
 ## 2020
-[![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2020.jpg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2020.pdf)
+[![Combining CNN and RNN in Seismic Phase Picking](/Posters/2020.jpg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2020.pdf)
 
 ## 2019
 [![Combine Back-Projection and Matched Filter in Detecting Offshore Seismicity](/Posters/2019.jpeg)](https://github.com/lovelytt0/lovelytt0.github.io/tree/master/Posters/2019.pdf)
