@@ -20,12 +20,6 @@ header-img: "img/seismograph.jpg"
 </header>
 
 <!-- Main Content -->
-<script type="text/javascript">
-  function setImage(select){
-    var image = document.getElementsByName("image-swap")[0];
-    image.src = select.options[select.selectedIndex].value;
-}
-</script>
 
 <div class="container">
 	<div class="row">
@@ -43,11 +37,18 @@ header-img: "img/seismograph.jpg"
       </select>
       <img src="" name="image-swap" />
 
-        <figure class="figure">
+      $(document).ready(function(){
+          $('.image-swap').attr("src",$('#kitchen_color').val());
+      })
+
+      function change_image(){
+          $('.image-swap').attr("src",$('#kitchen_color').val());
+      }
+        <!-- <figure class="figure">
           <img src="/img/ODC.png" class="figure-img img-fluid z-depth-1"
             alt="..." style="width: 400px">
           <figcaption class="figure-caption">A caption for the above image.</figcaption>
-        </figure>
+        </figure> -->
 
       <!-- <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center> -->
       <iframe src="/ActivePlots/df_ODC.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
