@@ -37,13 +37,10 @@ header-img: "img/seismograph.jpg"
       </select>
       <img src="" name="image-swap" />
 
-      $(document).ready(function(){
-          $('.image-swap').attr("src",$('#kitchen_color').val());
-      })
-
-      function change_image(){
-          $('.image-swap').attr("src",$('#kitchen_color').val());
-      }
+      <script>
+          let d = new Date();
+          alert("Today's date is " + d);
+      </script>
         <!-- <figure class="figure">
           <img src="/img/ODC.png" class="figure-img img-fluid z-depth-1"
             alt="..." style="width: 400px">
