@@ -52,6 +52,19 @@ $('.image-toggler').click(function(){
         </label>
       </div>
 
+
+
+      <input type='radio' class='switch-border' id='r1' name='switch' />
+      <label for='r1'>
+        <img src='/img/ODC.png' class='switch-border' />
+      </label>
+      <input type='radio' class='switch-border' id='r2' name='switch' />
+      <label for='r2'>
+        <img src='/img/Hypo.png' class='switch-border' />
+      </label>
+
+
+
 			<div id='tag_cloud' class="tags">
 				{% for tag in site.tags %}
 				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
