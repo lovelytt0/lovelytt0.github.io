@@ -38,10 +38,20 @@ header-img: "img/seismograph.jpg"
         </select><br />
         <img src="" name="image-swap" style="width: 1200px; height: 750px;" />
 
+        <select name="kitchen_color" id="kitchen_color" onchange="setImage(this);">
+          <option value="/ActivePlots/ODC1.html"> Fault A </option>
+          <option value="/ActivePlots/ODC2.html"> Fault B </option>
+          <option value="/ActivePlots/ODC3.html"> Fault C </option>
+          <option value="/ActivePlots/Hypo1.html"> ML Fault A </option>
+          <option value="/ActivePlots/Hypo2.html"> ML Fault B </option>
+          <option value="/ActivePlots/Hypo3.html"> ML Fault C </option>
+        </select><br />
+        <!-- <img src="" name="image-swap" style="width: 1200px; height: 750px;" /> -->
+        <iframe src="" name="image-swap" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
 
 
       <!-- <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center> -->
-      <iframe src="/ActivePlots/ODC1.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
+      <!-- <iframe src="/ActivePlots/ODC1.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe> -->
 		</div>
 	</div>
 </div>
