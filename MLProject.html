@@ -32,13 +32,15 @@ header-img: "img/seismograph.jpg"
   	</div>
   <div class="row">
       <div class="col-lg-8 ">
-        <select name="kitchen_color" id="kitchen_color" onchange="setImage(this);">
+        <select  class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" name="kitchen_color" id="kitchen_color" onchange="setImage(this);">
+          <option selected>Open this select menu</option>
           <option value="/ActivePlots/ODC.png"> Original Catalog</option>
           <option value="/ActivePlots/Hypo.png"> Machine Learning Catalog</option>
         </select><br />
         <img src="" name="image-swap" style="width: 1200px; height: 750px;" />
 
-        <select name="kitchen_color" id="kitchen_color" onchange="setHTML(this);">
+        <select  class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" name="kitchen_color2" id="kitchen_color2" onchange="setHTML(this);">
+          <option selected>Open this select menu</option>
           <option value="/ActivePlots/ODC1.html"> Fault A </option>
           <option value="/ActivePlots/ODC2.html"> Fault B </option>
           <option value="/ActivePlots/ODC3.html"> Fault C </option>
