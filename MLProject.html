@@ -21,6 +21,17 @@ header-img: "img/seismograph.jpg"
 
 <!-- Main Content -->
 
+<script>
+
+function changeImage()
+{
+var img = document.getElementById("image");
+img.src="images/test2";
+return false;
+}
+
+</script>
+
 
 
 <div class="container">
@@ -33,10 +44,12 @@ header-img: "img/seismograph.jpg"
   	</div>
   <div class="row">
       <div class="col-lg-8 ">
-      <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center>
+      <!-- <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center> -->
 
 
-
+      <img id="image" src="img/" />
+      <br><br><br>
+      <button id="clickme" onclick="changeImage();">Click to change image!</button>
 
 
 			<div id='tag_cloud' class="tags">
