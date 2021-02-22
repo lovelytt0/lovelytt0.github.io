@@ -25,18 +25,28 @@ header-img: "img/seismograph.jpg"
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 ">
-            <!-- 标签云 -->
-
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShpPT7UiAsxp3JLq_7af5vaF46iwBuKNdkiGMXyA6MURner578EOS9RUDW98nd0vstrrk9RsbGV2Dn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1200" height="936" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       </div>
   	</div>
   <div class="row">
       <div class="col-lg-8 ">
+        <input id="valR" type="range" min="0" max="1" value="0" step="5" oninput="showVal(this.value)" onchange="showVal(this.value)" />
+        <span id="range">0</span>
+        <img id="img">
+
+        <script>
+            
+            var val = document.getElementById("valR").value;
+                document.getElementById("range").innerHTML=val;
+                document.getElementById("img").src = val + ".jpg";
+                function showVal(newVal){
+                  document.getElementById("range").innerHTML=newVal;
+                  document.getElementById("img").src = newVal+ ".jpg";
+                }
+        </script>
+
       <!-- <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center> -->
-
       <iframe src="/ActivePlots/df_ODC.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
-
-
 		</div>
 	</div>
 </div>
