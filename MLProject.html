@@ -22,13 +22,6 @@ header-img: "img/seismograph.jpg"
 <!-- Main Content -->
 
 
-<script language="JavaScript" type="text/javascript">
-$('.image-toggler').click(function(){
-  $('.image-toggle').hide();
-  $($(this).attr('data-image-id')).show();
-});
-</script>
-
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 ">
@@ -43,73 +36,6 @@ $('.image-toggler').click(function(){
 
       <iframe src="/ActivePlots/df_ODC.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
 
-
-      <div>
-          <img src="/img/ODC.png" title="image 1" alt="image 1" id="image1" class="image-toggle" />
-          <img src="/img/Hypo.png" title="image 2" alt="image 2" id="image2" class="image-toggle" />
-      </div>
-      <div class="btn-group" data-toggle="buttons">
-        <label class="btn btn-primary image-toggler" data-image-id="#image1">
-          <input type="radio" name="options" id="option1"> Original Catalog
-        </label>
-        <label class="btn btn-primary image-toggler" data-image-id="#image2">
-          <input type="radio" name="options" id="option2"> Machine Learning Catalog
-        </label>
-      </div>
-
-
-
-      <input type='radio' class='switch-border' id='r1' name='switch' />
-      <label for='r1'>
-        <img src='/img/ODC.png' class='switch-border' />
-      </label>
-      <input type='radio' class='switch-border' id='r2' name='switch' />
-      <label for='r2'>
-        <img src='/img/Hypo.png' class='switch-border' />
-      </label>
-
-
-
-			<div id='tag_cloud' class="tags">
-				{% for tag in site.tags %}
-				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-				{% endfor %}
-			</div>
-
-            <!--<blockquote class="tag-comments">
-                标签命名规范：
-                    <li>行业观察、职位、公司优先使用中文</li>
-                    <li>外国产品、术语优先使用英文</li>
-            </blockquote>-->
-
-            <!-- 标签列表 -->
-			{% for tag in site.tags %}
-			<div class="one-tag-list">
-			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
-                    <span class="tag-text">{{ tag[0] }}</span>
-                </span>
-				{% for post in tag[1] %}
-				  <!-- <li class="listing-item">
-				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				  </li> -->
-				 <div class="post-preview">
-				    <a href="{{ post.url | prepend: site.baseurl }}">
-				        <h2 class="post-title">
-                            {{ post.title }}
-				        </h2>
-				        {% if post.subtitle %}
-				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
-				        </h3>
-				        {% endif %}
-				    </a>
-				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-				</div>
-				<hr>
-				{% endfor %}
-			</div>
-			{% endfor %}
 
 		</div>
 	</div>
