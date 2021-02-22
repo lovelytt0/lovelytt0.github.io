@@ -20,7 +20,12 @@ header-img: "img/seismograph.jpg"
 </header>
 
 <!-- Main Content -->
-
+<script type="text/javascript">
+  function setImage(select){
+    var image = document.getElementsByName("image-swap")[0];
+    image.src = select.options[select.selectedIndex].value;
+}
+</script>
 
 <div class="container">
 	<div class="row">
@@ -32,10 +37,11 @@ header-img: "img/seismograph.jpg"
       <div class="col-lg-8 ">
       <select class="custom-select">
         <option selected>Open this select menu</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
+        <option value="/img/ODC.png">One</option>
+        <option value="/img/HypoDD.png">Two</option>
+        <option value="/img/ODC.png">Three</option>
       </select>
+      <img src="" name="image-swap" />
 
         <figure class="figure">
           <img src="/img/ODC.png" class="figure-img img-fluid z-depth-1"
