@@ -35,7 +35,7 @@ header-img: "img/seismograph.jpg"
         <img id="img">
 
         <script>
-            
+
             var val = document.getElementById("valR").value;
                 document.getElementById("range").innerHTML=val;
                 document.getElementById("img").src = val + ".jpg";
@@ -44,6 +44,11 @@ header-img: "img/seismograph.jpg"
                   document.getElementById("img").src = newVal+ ".jpg";
                 }
         </script>
+
+        <div class="custom-control custom-switch">
+  <input type="checkbox" class="custom-control-input" id="customSwitch1">
+  <label class="custom-control-label" for="customSwitch1">Toggle this switch element</label>
+</div>
 
       <!-- <center><embed src="/img/combinepdf.pdf" width="1200" height="1200"  type="application/pdf"></center> -->
       <iframe src="/ActivePlots/df_ODC.html" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe>
