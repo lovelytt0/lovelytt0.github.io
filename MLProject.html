@@ -57,24 +57,28 @@ The recent expansion of seismic data and computing resources enables flourishing
 
   <div class="row">
       <div class="col-lg-8 ">
-        <img src="/ActivePlots/ODC.png" name="image-swap" style="width: 1000px; height: 625px;" />
         <select  class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" name="kitchen_color" id="kitchen_color" onchange="setImage(this);">
           <option selected>Open this select menu</option>
           <option value="/ActivePlots/ODC.png"> Original Catalog</option>
           <option value="/ActivePlots/Hypo.png"> Machine Learning Catalog</option>
         </select>
+        <img src="/ActivePlots/ODC.png" name="image-swap" style="width: 1000px; height: 625px;" />
+
         <br /> <br /><br /><br /><br />
 
     <h2 style="color:black;">3D Scatter Plot Of Earthquakes Near Faults</h2>
 
-        <iframe src="/ActivePlots/HypoDD1.html" name="html-swap" style="width: 1000px; height: 625px;" style="border: 2px solid blue;"></iframe>
-        <select  class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" name="kitchen_color2" id="kitchen_color2" onchange="setHTML(this);">
+        <select  class="form-select form-select-lg mb-8" aria-label=".form-select-lg example" name="kitchen_color2" id="kitchen_color2" onchange="setHTML(this);">
           <option selected>Open this select menu</option>
           <option value="/ActivePlots/HypoDD1.html"> Fault A (Machine Learning) </option>
           <option value="/ActivePlots/HypoDD2.html"> Fault B (Machine Learning) </option>
           <option value="/ActivePlots/ODC1.html"> Fault A (Original)</option>
           <option value="/ActivePlots/ODC2.html"> Fault B (Original)</option>
-        </select><br />
+
+        </select>
+        <iframe src="/ActivePlots/HypoDD1.html" name="html-swap" style="width: 1000px; height: 625px;" style="border: 2px solid blue;"></iframe>
+        <br />
+
         <!-- <img src="" name="image-swap" style="width: 1200px; height: 750px;" /> -->
         <!-- <iframe src="" name="html-swap" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe> -->
 
