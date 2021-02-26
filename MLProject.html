@@ -57,7 +57,7 @@ The recent expansion of seismic data and computing resources enables flourishing
 
   <div class="row">
       <div class="col-lg-8 ">
-        <select  class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" name="kitchen_color" id="kitchen_color" onchange="setImage(this);">
+        <select  class="selectpicker" data-style="btn-primary" data-width="2000px"  aria-label=".form-select-lg example"  onchange="setImage(this);">
           <option selected>Open this select menu</option>
           <option value="/ActivePlots/ODC.png"> Original Catalog</option>
           <option value="/ActivePlots/Hypo.png"> Machine Learning Catalog</option>
@@ -68,22 +68,23 @@ The recent expansion of seismic data and computing resources enables flourishing
 
     <h2 style="color:black;">3D Scatter Plot Of Earthquakes Near Faults</h2>
 
-        <select  class="selectpicker" data-style="btn-primary" data-width="500px" aria-label=".form-select-lg example" name="kitchen_color2" id="kitchen_color2" onchange="setHTML(this);">
-          <option selected>Open this select menu</option>
+  Days are relative to the origin time of Mw 7.0 earthquake on 30 October 2020.
+
+        <select  class="selectpicker" data-style="btn-primary" data-width="2000px" aria-label=".form-select-lg example" onchange="setHTML(this);">
+          <option selected> Open this select menu </option>
+          <optgroup label="Machine Learning">
           <option value="/ActivePlots/HypoDD1.html"> Fault A (Machine Learning) </option>
           <option value="/ActivePlots/HypoDD2.html"> Fault B (Machine Learning) </option>
+        </optgroup>
+        <optgroup label="Original">
           <option value="/ActivePlots/ODC1.html"> Fault A (Original)</option>
           <option value="/ActivePlots/ODC2.html"> Fault B (Original)</option>
-
+        </optgroup>
         </select>
         <iframe src="/ActivePlots/HypoDD1.html" name="html-swap" style="width: 1000px; height: 625px;" style="border: 2px solid blue;"></iframe>
         <br />
 
-        <select  class="form-select form-select-lg mb-3 selectpicker" data-style="btn-primary" data-width="1000px" onchange="setHTML(this);">
-          <option selected>Open this select menu</option>
-          <option value="/ActivePlots/HypoDD1.html"> Fault A (Machine Learning) </option>
 
-        </select>
 
         <!-- <img src="" name="image-swap" style="width: 1200px; height: 750px;" /> -->
         <!-- <iframe src="" name="html-swap" style="width: 1200px; height: 750px;" style="border: 2px solid blue;"></iframe> -->
