@@ -29,8 +29,7 @@ header-img: "img/seismograph.jpg"
   <div class="row">
 		<div class="col-lg-10 ">
 
-<h2 style="color:black;"> Introduction Slide </h2>
-
+<h2 style="color:black;"> Abstract </h2>
 
 The recent expansion of seismic data and computing resources enables flourishing applications of deep learning in seismology. Many studies aim at automatically picking P and S arrivals, especially those buried in noises. Dozens of deep-learning-based models prove to be efficient in detecting phases of local events (<300km). Most of them take seismograms/spectrograms as input data and output the probability of P/S/background phases. Previous studies treat inputs as images and focus on the Convolutional Neural Network (CNN). CNNs employ filters within convolutional layers to extract features from inputs, and are often used in computer vision to recognize objects and patterns in images. Recent studies notice that input seismograms/spectrograms are sequential data, more like audio. Recurrent Neural Networks (RNN) are designed to interpret temporal or sequential information, which is widely used in speech recognition. However, RNNs cannot be stacked into very deep models, and training an RNN is a very difficult task. We solve this problem by extracting features from a pre-trained CNN model and then training an RNN on top of it. Compared with models trained directly from CNNs (PhaseNet and GPD), our hybrid model has higher accuracy and precision in the testing set. Besides, the hybrid model is more robust against low SNR of waveforms and far hypocentral distances, which indicates better generalization ability.
 
@@ -48,9 +47,10 @@ The recent expansion of seismic data and computing resources enables flourishing
 
     <br /><br /><br /><br />
     <h2 style="color:black;">Case Study in Aegean Sea</h2>
-    Time: 07/01/2020 - 11/19/2020
+    Time: 07/01/2020 - 11/19/2020 <br/>
     Stations: 132
-    <img src="/ActivePlots/station.png" name="image-swap" style="width: 1000px; height: 625px;" />
+    
+    <img src="/ActivePlots/station.png"  style="width: 1000px; height: 625px;" />
 
     <h2 style="color:black;"> Original Catalog V.S. Machine Learning Catalog </h2>
 
@@ -63,7 +63,7 @@ The recent expansion of seismic data and computing resources enables flourishing
           <option value="/ActivePlots/Hypo.png"> Machine Learning Catalog</option>
         </select>
         <br /> <br /><br /><br /><br />
-    
+
     <h2 style="color:black;">3D scatter plot of Earthquakes near faults</h2>
 
         <iframe src="/ActivePlots/HypoDD1.html" name="html-swap" style="width: 1000px; height: 625px;" style="border: 2px solid blue;"></iframe>
